@@ -1,472 +1,473 @@
-Alexandra Hotel,,,,150.3299989,-33.7110355,2
+name,number,street,city,cord1,cord2,freq
 Commercial Hotel,,,,153.003494,-28.6204991,48
-Criterion Hotel,,,,151.2662204,-27.1863046,7
-Imperial Hotel,,,,151.2684774,-27.1794538,15
-Country Club Hotel,,,,151.2636139,-27.1835455,2
 Commercial Hotel,,,,151.2645838,-27.1824842,48
-Royal Hotel,,,,151.241874,-33.9183477,45
-Robin Hood Hotel,,,,151.2536568,-33.9008581,2
-Empire Hotel,,,,151.1679118,-33.8877485,4
-Victoria Hotel,,,,151.1672165,-33.8826123,20
-Crown Hotel,,,,151.2094508,-33.8782586,8
-Star Hotel,,,,151.2045538,-33.877738,7
-Royal Hotel,,,,151.2686395,-33.8948327,45
-Grand Hotel,,,,151.2493905,-33.8937464,11
-Grandview Hotel,47,Pearson Street,,144.9488794,-37.7663282,3
-Station Hotel,,,,151.4857166,-32.823469,3
-Ocean Beach Hotel,,,,115.7528617,-31.9900286,2
-Australian Hotel,,,,150.8340237,-33.6149091,8
-Tourist Hotel,,,,149.2329859,-35.3537438,3
-Crown Hotel,,,,153.0332896,-27.424463,8
-Royal Oak,,,,151.1809784,-33.8555843,2
-Town Hall Hotel,,,,151.178145,-33.8566974,5
-Railway Hotel,,,,144.9783322,-37.7806158,24
-Central Hotel,,,,148.2472628,-20.0142812,7
-Grandview Hotel,,,,148.2479294,-20.0154216,3
-Memorial Club,,,,148.245833,-20.0118757,2
 Commercial Hotel,,,,148.8194173,-34.7664471,48
-Royal Oak Hotel,,,,144.97665,-37.7895012,7
-Bridge Hotel,,,,151.1688569,-33.8628297,5
-Prince Alfred Hotel,191,Grattan Street,,144.9622254,-37.8004316,2
 Commercial Hotel,,,,148.8834933,-37.146975,48
-Cambridge Hotel,,,,174.7828769,-41.2951348,2
-Criterion Hotel,,,,170.9700281,-45.1028126,7
-Cumberland Hotel,,,,144.2167416,-37.0645689,2
-Oriental Hotel,112,Macquarie Road,,150.5679332,-33.6995092,3
-Metropolitan Hotel,,,,144.9540832,-37.8018994,5
-Courthouse Hotel,,,,144.9498707,-37.8029265,7
-Doolan Brothers,,,,174.7224055,-36.9253086,3
 Commercial Hotel,,,,150.9018322,-34.4811614,48
-Bridge Hotel,,,,149.546314,-33.487269,5
-Prince of Wales Hotel,2,Acland Street,,144.9740773,-37.8621338,4
-Esplanade Hotel,11,The Esplanade,,144.973013,-37.8640582,3
-The Royal,,,,145.0335739,-38.2185087,3
-Retreat Hotel,226,Nicholson Street,,144.9976991,-37.8010822,4
-Rising Sun Hotel,2,Raglan Street,,144.9666355,-37.8360786,4
-Post Office Hotel,,,,144.9649421,-37.7487664,2
-Elephant & Wheelbarrow,,,,144.980793,-37.8581227,2
-Station Hotel,59,Napier Street,,144.9015596,-37.8045679,3
-Cumberland Hotel,,,,143.9488268,-37.3316871,2
-The Union Hotel,,,,144.9164886,-37.7719515,3
-Central Hotel,,,,142.9295218,-37.2837978,7
-Courthouse Hotel,,,,142.9281647,-37.2845062,7
-Victoria Tavern,,,,147.328225,-42.8839943,2
-Prince of Wales Hotel,,,,147.333872,-42.8894928,4
-Customs House,,,,147.3309891,-42.8848872,2
-Shamrock Hotel,,,,147.3239257,-42.8841068,5
-Uni Bar,,,,147.3238973,-42.9031496,2
-Royal Oak Hotel,14,Brisbane Street,,147.1420791,-41.4344562,7
-Irish Murphy's,,,,147.1344525,-41.43994,3
 Commercial Hotel,,,,147.1388631,-41.4340266,48
-Irish Murphy's,,,,147.3308232,-42.8865882,3
-The Duke of Edinburgh,,,,176.6114974,-40.3042696,2
-Railway Hotel,,,,144.2129482,-37.0625593,24
-Junction Hotel,,,,144.2154555,-36.8926578,5
-Crown Hotel,,,,144.0609994,-37.1072225,8
-Post Office Hotel,,,,173.0107954,-41.1105545,2
 Commercial Hotel,,,,172.3257256,-41.7999334,48
-Railway Hotel,,,,170.9637313,-42.7179611,24
+Commercial Hotel,,,,148.2222836,-35.3014866,48
+Commercial Hotel,,,,150.4362116,-35.3162684,48
+Commercial Hotel,,,,142.0216461,-37.7424026,48
+Commercial Hotel,,,,138.6055871,-33.2058038,48
+Commercial Hotel,,,,142.198844,-36.716414,48
+Commercial Hotel,65,Grant Street,,145.7100304,-37.1917292,48
+Commercial Hotel,,,,152.6820729,-27.9971988,48
+Commercial Hotel,,,,175.8389819,-37.3921439,48
+Commercial Hotel,,,,144.2237655,-37.6003624,48
+Commercial Hotel,,,,142.4144013,-36.0759447,48
+Commercial Hotel,,,,140.7770292,-37.8271583,48
+Commercial Hotel,,,,150.1963142,-23.9083836,48
+Commercial Hotel,,,,145.0890253,-37.6510383,48
+Commercial Hotel,,,,146.7845068,-37.9838019,48
+Commercial Hotel,80,Capella Street,,147.6400145,-22.8256264,48
+Commercial Hotel,57,Brook Street,,142.6639861,-35.6807067,48
+Commercial Hotel,,,,153.3372194,-27.9894796,48
+Commercial Hotel,,,,150.6471796,-31.3521243,48
+Commercial Hotel,,,,150.6110066,-30.3774492,48
+Commercial Hotel,,,,151.0759854,-30.1703489,48
+Commercial Hotel,35,Main Street,,142.5858487,-36.460996,48
+Commercial Hotel,,Adams Street,,141.9180686,-34.1075886,48
+Commercial Hotel,,,,146.2541231,-37.5698358,48
+Commercial Hotel,,,,148.2470401,-20.013883,48
+Commercial Hotel,,,,152.9524348,-29.0867701,48
+Commercial Hotel,22,Commercial Street,,138.938204,-33.6827671,48
+Commercial Hotel,,,,151.0958546,-29.3221528,48
+Commercial Hotel,,,,148.3882903,-30.9544977,48
+Commercial Hotel,,,,138.8931114,-35.2559537,48
+Commercial Hotel,,,,152.0189727,-29.0532578,48
+Commercial Hotel,95,Godfrey Street,,143.7254096,-36.1166379,48
+Commercial Hotel,,,,150.8889339,-32.1616304,48
+Commercial Hotel,,,,138.6132102,-32.7343317,48
+Commercial Hotel,,,,146.5733568,-38.1253869,48
+Commercial Hotel,,,,147.8817141,-34.5000819,48
+Commercial Hotel,,,,144.7085741,-36.9219637,48
+Commercial Hotel,,,,118.2773533,-31.4819403,48
+Commercial Hotel,,,,151.0068518,-33.8180011,48
+Commercial Hotel,,,,148.1752118,-33.1381441,48
+Commercial Hotel,,,,150.5750272,-29.5418313,48
+Commercial Hotel,161,Brisbane Street,,148.6033566,-32.2482176,48
+Royal Hotel,,,,151.241874,-33.9183477,45
+Royal Hotel,,,,151.2686395,-33.8948327,45
 Royal Hotel,,,,170.1477951,-45.0236108,45
 Royal Hotel,,,,149.4169197,-33.032432,45
-Victoria Hotel,55,Baylis Street,,147.3693206,-35.1174828,20
-Union Hotel,,,,147.3695422,-35.1140918,5
-Commercial Hotel,,,,148.2222836,-35.3014866,48
-Railway Hotel,,,,144.0548081,-37.1123923,24
-Belgian Beer Cafe,5,Riverside Quay,,144.9644575,-37.8214816,3
-Australian Hotel,,,,148.6846935,-33.8327225,8
-Prince of Wales Hotel,109,Church Street,,145.0000973,-37.8146637,4
-Belgian Beer Cafe,,,,138.6094954,-34.9228504,3
-The Paddington,,,,115.8397641,-31.9220968,2
-Club House Hotel,,,,149.5641108,-33.6892321,3
-Doolan Brothers,,,,174.8086291,-36.897238,3
-Rising Sun Hotel,395,Swan St,,145.0068283,-37.8265312,4
-Town Hall Hotel,135-137,Bank Street,,144.9634356,-37.8336229,5
-Grandview Hotel,,,,145.017188,-37.783184,3
-Commercial Hotel Motel,,,,152.7106959,-30.3397082,4
 Royal Hotel,,Obley Street,,148.6476646,-32.7540051,45
-Junction Hotel,,,,151.7604048,-32.9383332,5
-Pioneer Tavern,,,,150.7106798,-33.776712,2
-Bridge Hotel,642,Bridge Road,,145.013453,-37.820242,5
-Empire Hotel,,,,175.3283786,-41.1129573,4
 Royal Hotel,,,,145.1267499,-37.0201323,45
-Oriental Hotel,,,,151.7684265,-32.9311677,3
-Grand Hotel,499,Nepean Highway,,145.1204742,-38.1452014,11
-Imperial Hotel,,,,151.5535647,-32.7311235,15
 Royal Hotel,,,,175.3223198,-41.116988,45
-The Union Hotel,576,King Street,,151.1802051,-33.9040023,3
-Railway Hotel,280,Ferrars Street,,144.9558859,-37.8354415,24
-Melbourne Hotel,,Browning Street,,153.0132072,-27.4776327,2
-Commercial Hotel,,,,150.4362116,-35.3162684,48
-Star Hotel,,,,150.4367008,-35.3166536,7
 Royal Hotel,,,,144.98958,-37.821557,45
-Station Hotel,,,,144.9903572,-37.8492799,3
-Royal Oak Hotel,,,,145.0640586,-37.9728461,7
-Exchange Hotel,39,Bay Street,,144.9388392,-37.8419901,6
-Victoria Hotel,,,,144.9557059,-37.805652,20
-Shamrock Hotel,,,,148.4034036,-33.9967187,5
-Empire Hotel,,,,148.2960747,-34.3120046,4
-Caledonian Hotel,,,,142.2341315,-38.3833696,4
-Royal Oak Hotel,,,,142.2378896,-38.3836615,7
-Imperial Hotel,2-8,Bourke Street,,144.972707,-37.81127,15
-Elephant & Wheelbarrow,94-96,Bourke Street,,144.970217,-37.811917,2
-Union Hotel,,,,144.993065,-37.854942,5
-Windsor Castle,,,,174.7794421,-36.8535279,2
-Australian Hotel,,,,149.1254416,-36.2350383,8
-Tourist Hotel,,,,150.567126,-32.3351438,3
-Speights Ale House,,,,168.6623415,-45.0310598,3
-Pig and Whistle,,,,168.6623979,-45.0315186,3
-Grand Hotel,,,,152.3778895,-27.0880723,11
 Royal Hotel,,,,144.9973808,-37.7887974,45
-Metropolitan Hotel,263,William Street,,144.9566006,-37.812927,5
-Great Western Hotel,204,King Street,,144.9554829,-37.8152173,3
-Railway Hotel,,,,145.1379813,-37.0239435,24
 Royal Hotel,,,,150.247081,-31.3954081,45
-Commercial Hotel,,,,142.0216461,-37.7424026,48
-Victory Hotel,,,,153.4893323,-28.4418785,2
-Family Hotel,,,,150.9167877,-31.0940572,3
-Central Hotel,,,,150.9292492,-31.0898125,7
-Crown Hotel,,,,143.8836564,-37.6499256,8
-Esplanade Hotel,,,,138.5148982,-35.0170783,3
-Victoria Hotel,205,Hogan Street,,145.2322059,-36.4398577,20
-Ocean View Hotel,15,Morgo Street,,153.0219258,-30.4953527,3
-Victoria Hotel,,,,142.029131,-36.4550784,20
-The Royal,60,Royal Street,,115.8778487,-31.9525382,3
-Central Hotel,,,,150.9087927,-33.7693463,7
 Royal Hotel,,,,149.0479307,-33.6732557,45
-Commercial Hotel,,,,138.6055871,-33.2058038,48
-Criterion Hotel,162,Hogan Street,,145.2286712,-36.4402337,7
-Wheatsheaf Hotel,,,,142.915684,-38.2406821,4
-Grand Hotel,,,,145.5172438,-37.6541164,11
-RSL,,,,152.1032516,-26.8845111,3
-Railway Hotel,,,,148.6958716,-33.8351495,24
-Imperial Hotel,,,,148.6876855,-33.8339802,15
-Victoria Hotel,27,The Mall,,130.842693,-12.4643506,20
-Town Hall Hotel,166,Johnston Street,,144.980497,-37.79872,5
 Royal Hotel,,,,142.1993497,-36.7168351,45
-Commercial Hotel,,,,142.198844,-36.716414,48
-Exchange Hotel,100,Firebrace Street,,142.199307,-36.715768,6
-Club Hotel,,,,116.14937,-33.3571486,5
-Shamrock Hotel,120,Mollinson Street,,144.4536792,-37.2478307,5
-Federal Hotel,,,,148.9451299,-32.5562034,7
-Ocean View Hotel,,,,145.4763785,-38.5495568,3
 Royal Hotel,,,,145.3860367,-17.3838797,45
-Australian Hotel,,,,145.3859026,-17.3837466,8
-Commercial Hotel,65,Grant Street,,145.7100304,-37.1917292,48
-Alexandra Hotel,64,Grant Street,,145.7093248,-37.1915307,2
-The Paddington,,,,174.7823592,-36.8505721,2
-Victoria Hotel,,,,142.196871,-36.710478,20
 Royal Hotel,,,,152.6242197,-27.9381745,45
 Royal Hotel,,,,144.7294365,-37.5799845,45
 Royal Hotel,,,,150.8317595,-31.76171,45
+Royal Hotel,,,,152.4606314,-31.9139606,45
+Royal Hotel,,,,152.5831624,-25.728569,45
+Royal Hotel,,,,143.2668142,-26.6686483,45
+Royal Hotel,,,,150.5763976,-29.5413365,45
+Royal Hotel,,,,151.0563422,-34.0319332,45
+Royal Hotel,,,,149.2779758,-31.2746886,45
+Royal Hotel,,,,149.8823569,-27.3221517,45
+Royal Hotel,,,,152.0203406,-29.0534457,45
+Royal Hotel,,,,149.2338569,-35.3531083,45
+Royal Hotel,,,,149.8285243,-31.3465034,45
+Royal Hotel,,,,150.3038762,-28.5467353,45
+Royal Hotel,,,,152.2777252,-27.5555662,45
+Royal Hotel,,,,151.75668,-32.4048833,45
+Royal Hotel,,,,150.7203622,-30.7474804,45
+Royal Hotel,,,,146.624593,-33.8752309,45
+Royal Hotel,,,,141.9959766,-35.8981998,45
+Royal Hotel,,Kidman Way,,145.8794637,-32.8398177,45
+Royal Hotel,,,,147.739889,-33.8434069,45
+Royal Hotel,,,,145.7076159,-38.3680977,45
+Royal Hotel,,,,148.6936548,-33.1857846,45
+Royal Hotel,,,,149.378352,-31.552574,45
+Royal Hotel,,,,150.7528385,-33.5975317,45
+Royal Hotel,,,,153.2003066,-27.7156754,45
+Royal Hotel,,,,151.2117328,-29.9547747,45
+Royal Hotel,95,Sanger Street,,146.3914197,-35.9984948,45
+Royal Hotel,,,,144.1429625,-37.3417675,45
+Royal Hotel,,Dubbo Street,,147.8367414,-31.7009917,45
+Royal Hotel,,,,148.174729,-33.1362912,45
+Royal Hotel,,,,151.9814179,-26.8408662,45
+Railway Hotel,,,,144.9783322,-37.7806158,24
+Railway Hotel,,,,144.2129482,-37.0625593,24
+Railway Hotel,,,,170.9637313,-42.7179611,24
+Railway Hotel,,,,144.0548081,-37.1123923,24
+Railway Hotel,280,Ferrars Street,,144.9558859,-37.8354415,24
+Railway Hotel,,,,145.1379813,-37.0239435,24
+Railway Hotel,,,,148.6958716,-33.8351495,24
+Railway Hotel,,,,149.9693989,-32.859508,24
+Railway Hotel,,,,144.890716,-37.816784,24
+Railway Hotel,,,,152.6765258,-26.4600363,24
+Railway Hotel,,,,149.9534859,-30.5976229,24
+Railway Hotel,,,,150.0410242,-30.7035214,24
+Railway Hotel,247,Commercial Road,,138.5067885,-34.8439152,24
+Railway Hotel,,,,145.7727814,-16.9242798,24
+Railway Hotel,,,,146.7870163,-37.9808696,24
+Railway Hotel,,,,143.7227375,-36.1165225,24
+Railway Hotel,,,,150.6472631,-31.3508142,24
+Railway Hotel,,,,150.8121759,-33.6131084,24
+Railway Hotel,,,,143.5627451,-37.6870294,24
+Railway Hotel,,,,146.7261826,-36.5581893,24
+Railway Hotel,2,High Street,,144.1722125,-38.044827,24
+Railway Hotel,19,Spring Street,,149.1549127,-33.4009655,24
+Railway Hotel,,,,150.7425307,-23.1287801,24
+Railway Hotel,,,,152.8320038,-31.0794666,24
+Victoria Hotel,,,,151.1672165,-33.8826123,20
+Victoria Hotel,55,Baylis Street,,147.3693206,-35.1174828,20
+Victoria Hotel,,,,144.9557059,-37.805652,20
+Victoria Hotel,205,Hogan Street,,145.2322059,-36.4398577,20
+Victoria Hotel,,,,142.029131,-36.4550784,20
+Victoria Hotel,27,The Mall,,130.842693,-12.4643506,20
+Victoria Hotel,,,,142.196871,-36.710478,20
+Victoria Hotel,380,Victoria Street,,144.9589904,-37.766843,20
+Victoria Hotel,,,,144.5267346,-37.357701,20
+Victoria Hotel,,,,150.3048786,-28.5464828,20
+Victoria Hotel,,Meylin Street,,140.7002393,-38.0525775,20
+Victoria Hotel,43,Victoria Street,,144.8928148,-37.8020622,20
+Victoria Hotel,,,,150.6105041,-30.3802058,20
+Victoria Hotel,12,Taverner Street,,142.4210656,-35.9405665,20
+Victoria Hotel,20,Victoria Street,,144.1143008,-36.055488,20
+Victoria Hotel,,,,142.3169034,-35.071157,20
+Victoria Hotel,,,,147.1783154,-36.2174131,20
+Victoria Hotel,,,,142.4855439,-38.3817946,20
+Victoria Hotel,337,Gosport Street,,149.8469119,-29.4734198,20
+Victoria Hotel,,,,151.6488339,-32.7149605,20
+Imperial Hotel,,,,151.2684774,-27.1794538,15
+Imperial Hotel,,,,151.5535647,-32.7311235,15
+Imperial Hotel,2-8,Bourke Street,,144.972707,-37.81127,15
+Imperial Hotel,,,,148.6876855,-33.8339802,15
+Imperial Hotel,,,,149.9818058,-33.3546816,15
+Imperial Hotel,Lot 1,Rooty Hill Road North,,150.8435199,-33.771435,15
+Imperial Hotel,,,,149.2771106,-31.2736981,15
+Imperial Hotel,,,,149.4443154,-30.2251042,15
+Imperial Hotel,,,,150.571551,-29.8673782,15
+Imperial Hotel,,,,150.7192381,-30.7460387,15
+Imperial Hotel,,,,153.2003836,-27.7160983,15
+Imperial Hotel,,,,149.2401863,-36.9106245,15
+Imperial Hotel,33,Byron Street,,151.1116792,-29.7736627,15
+Imperial Hotel,,,,151.7356411,-29.7368459,15
+Imperial Hotel,,,,150.2499392,-30.9781921,15
+Grand Hotel,,,,151.2493905,-33.8937464,11
+Grand Hotel,499,Nepean Highway,,145.1204742,-38.1452014,11
+Grand Hotel,,,,152.3778895,-27.0880723,11
+Grand Hotel,,,,145.5172438,-37.6541164,11
+Grand Hotel,,,,152.0457499,-25.5123807,11
+Grand Hotel,129,Lee Street,,148.9406825,-32.5505175,11
+Grand Hotel,,,,147.6401002,-22.8248194,11
+Grand Hotel,,,,147.047411,-43.033028,11
+Grand Hotel,,,,149.8405835,-36.6740466,11
+Grand Hotel,,,,142.2198207,-10.5848775,11
+Grand Hotel,,,,152.2774591,-25.2367066,11
+Tattersalls Hotel,,Mitchell Highway,,145.7133418,-29.0126481,9
+Tattersalls Hotel,,,,144.0341583,-35.0913515,9
+Tattersalls Hotel,,,,149.0678648,-30.9494453,9
+Tattersalls Hotel,,,,145.5303492,-33.4858695,9
+Tattersalls Hotel,,,,148.5763082,-29.5456926,9
+Tattersalls Hotel,,,,151.5977791,-29.4450165,9
+Tattersalls Hotel,,,,149.2547625,-33.5334963,9
+Tattersalls Hotel,,,,152.3589527,-24.8704298,9
+Tattersalls Hotel,,,,145.565102,-35.8120472,9
+Crown Hotel,,,,151.2094508,-33.8782586,8
+Australian Hotel,,,,150.8340237,-33.6149091,8
+Crown Hotel,,,,153.0332896,-27.424463,8
+Crown Hotel,,,,144.0609994,-37.1072225,8
+Australian Hotel,,,,148.6846935,-33.8327225,8
+Australian Hotel,,,,149.1254416,-36.2350383,8
+Crown Hotel,,,,143.8836564,-37.6499256,8
+Australian Hotel,,,,145.3859026,-17.3837466,8
+Australian Hotel,,,,152.6823342,-27.9979766,8
+Crown Hotel,,Urben Street,,152.5479466,-28.4723403,8
+Australian Hotel,,,,146.8202013,-19.2604823,8
+Australian Hotel,,,,148.5789862,-28.035344,8
+Crown Hotel,,,,141.9189862,-34.1071023,8
+Australian Hotel,81-87,Byron Street,,151.1131598,-29.7726544,8
+Crown Hotel,,,,174.7133159,-36.8695319,8
+Crown Hotel,,,,151.2126744,-33.891384,8
+Criterion Hotel,,,,151.2662204,-27.1863046,7
+Star Hotel,,,,151.2045538,-33.877738,7
+Central Hotel,,,,148.2472628,-20.0142812,7
+Royal Oak Hotel,,,,144.97665,-37.7895012,7
+Criterion Hotel,,,,170.9700281,-45.1028126,7
+Courthouse Hotel,,,,144.9498707,-37.8029265,7
+Central Hotel,,,,142.9295218,-37.2837978,7
+Courthouse Hotel,,,,142.9281647,-37.2845062,7
+Royal Oak Hotel,14,Brisbane Street,,147.1420791,-41.4344562,7
+Star Hotel,,,,150.4367008,-35.3166536,7
+Royal Oak Hotel,,,,145.0640586,-37.9728461,7
+Royal Oak Hotel,,,,142.2378896,-38.3836615,7
+Central Hotel,,,,150.9292492,-31.0898125,7
+Central Hotel,,,,150.9087927,-33.7693463,7
+Criterion Hotel,162,Hogan Street,,145.2286712,-36.4402337,7
+Federal Hotel,,,,148.9451299,-32.5562034,7
+Federal Hotel,,,,149.1866996,-26.5877794,7
+Federal Hotel,112,Commercial Street East,,140.7870886,-37.8307393,7
+Federal Hotel,,,,149.5890795,-32.6005738,7
+Central Hotel,,,,152.7011446,-25.539622,7
+Central Hotel,,,,148.0251086,-34.6379722,7
+Courthouse Hotel,,,,150.7211468,-30.7492688,7
+Criterion Hotel,,,,146.0041767,-36.0088861,7
+Criterion Hotel,,,,148.1048006,-35.0646492,7
+Courthouse Hotel,,,,147.9055471,-36.1956007,7
+Star Hotel,,,,146.6724879,-36.1056154,7
+Federal Hotel,,,,152.8962125,-30.4517383,7
+Courthouse Hotel,189,Oxford Street,,151.21661,-33.8806577,7
+Royal Oak Hotel,,,,151.0054473,-33.807511,7
+Star Hotel,,,,146.4601932,-36.0541424,7
+Federal Hotel,,,,142.2153284,-10.5854747,7
+Criterion Hotel,61,High Street,,145.0161746,-36.5889945,7
+Star Hotel,118,Sanger Street,,146.3910071,-35.9978557,7
+Courthouse Hotel,,,,144.9498103,-37.8029031,7
+Central Hotel,,,,150.5546867,-23.3744779,7
+Royal Oak Hotel,321,High Street South,,175.5161036,-41.0366444,7
+Star Hotel,,,,148.1598172,-23.5259394,7
+Criterion Hotel,,,,152.0328942,-28.2154808,7
+Federal Hotel,,,,149.1510886,-34.0848063,7
+Star Hotel,,,,148.1739163,-33.1337532,7
+Courthouse Hotel,,,,150.2561356,-30.9793935,7
+Royal Oak Hotel,,,,175.5017542,-36.9840829,7
+Exchange Hotel,39,Bay Street,,144.9388392,-37.8419901,6
+Exchange Hotel,100,Firebrace Street,,142.199307,-36.715768,6
+Exchange Hotel,,,,152.4621222,-31.9130567,6
+Exchange Hotel,,,,149.3759749,-31.5538133,6
+Exchange Hotel,,Bruford Street,,144.5476255,-22.5931333,6
+Exchange Hotel,,,,145.0190947,-20.7699888,6
+Town Hall Hotel,,,,151.178145,-33.8566974,5
+Bridge Hotel,,,,151.1688569,-33.8628297,5
+Metropolitan Hotel,,,,144.9540832,-37.8018994,5
+Bridge Hotel,,,,149.546314,-33.487269,5
+Shamrock Hotel,,,,147.3239257,-42.8841068,5
+Junction Hotel,,,,144.2154555,-36.8926578,5
+Union Hotel,,,,147.3695422,-35.1140918,5
+Town Hall Hotel,135-137,Bank Street,,144.9634356,-37.8336229,5
+Junction Hotel,,,,151.7604048,-32.9383332,5
+Bridge Hotel,642,Bridge Road,,145.013453,-37.820242,5
+Shamrock Hotel,,,,148.4034036,-33.9967187,5
+Union Hotel,,,,144.993065,-37.854942,5
+Metropolitan Hotel,263,William Street,,144.9566006,-37.812927,5
+Town Hall Hotel,166,Johnston Street,,144.980497,-37.79872,5
+Club Hotel,,,,116.14937,-33.3571486,5
+Shamrock Hotel,120,Mollinson Street,,144.4536792,-37.2478307,5
+Shamrock Hotel,,,,150.8897732,-32.2653373,5
+Albion Hotel,300,Sandgate Road,,153.0416146,-27.4297699,5
+Shamrock Hotel,,,,144.7000488,-36.3611125,5
+Union Hotel,,,,144.7064062,-36.9200629,5
+Bridge Hotel,,,,143.9894618,-37.5591425,5
+Club Hotel,,,,151.5991906,-29.4430334,5
+Bridge Hotel,,,,147.7028601,-35.9287052,5
+Club Hotel,,,,151.8390154,-26.5408195,5
+Club Hotel,,,,175.4107015,-40.5475253,5
+Albion Hotel,155,Murray Street,,145.5773726,-35.6417954,5
+Royal Mail Hotel,,,,144.4095082,-28.9976435,5
+Metropolitan Hotel,,,,149.1896371,-21.1442974,5
+Junction Hotel,1,Plenty Road,,145.001999,-37.751481,5
+Metropolitan Hotel,,Hartwood Street,,146.3152178,-32.0651899,5
+Royal Mail Hotel,,,,145.7097027,-33.9821067,5
+Union Hotel,,,,138.5969756,-34.92578,5
+Royal Mail Hotel,,Melbourne Street,,146.0022911,-35.9920973,5
+Town Hall Hotel,,,,151.178632,-33.898041,5
+Union Hotel,,,,176.8974221,-39.4805694,5
+Royal Mail Hotel,,,,142.3947638,-36.2517805,5
+Town Hall Hotel,,,,142.7795645,-37.0569773,5
+Albion Hotel,,,,146.9145714,-36.0807254,5
+Metropolitan Hotel,1,Bridge Street,,151.2077121,-33.8638339,5
+Junction Hotel,,,,141.7962718,-37.8582151,5
+Junction Hotel,,,,141.1860043,-38.081393,5
+Royal Mail Hotel,,,,153.039137,-26.3915453,5
+Club Hotel,225,Ipswich Street,,152.4192251,-27.2365949,5
+Albion Hotel,,,,151.7599507,-32.9215148,5
+Albion Hotel,,,,145.213661,-37.9857681,5
+Empire Hotel,,,,151.1679118,-33.8877485,4
+Prince of Wales Hotel,2,Acland Street,,144.9740773,-37.8621338,4
+Retreat Hotel,226,Nicholson Street,,144.9976991,-37.8010822,4
+Rising Sun Hotel,2,Raglan Street,,144.9666355,-37.8360786,4
+Prince of Wales Hotel,,,,147.333872,-42.8894928,4
+Prince of Wales Hotel,109,Church Street,,145.0000973,-37.8146637,4
+Rising Sun Hotel,395,Swan St,,145.0068283,-37.8265312,4
+Commercial Hotel Motel,,,,152.7106959,-30.3397082,4
+Empire Hotel,,,,175.3283786,-41.1129573,4
+Empire Hotel,,,,148.2960747,-34.3120046,4
+Caledonian Hotel,,,,142.2341315,-38.3833696,4
+Wheatsheaf Hotel,,,,142.915684,-38.2406821,4
 Wheatsheaf Hotel,,,,137.9961017,-34.2873685,4
+Prince of Wales Hotel,,,,150.8871598,-32.2681012,4
+Commercial Hotel Motel,,,,152.0449185,-25.5116961,4
+Rising Sun Hotel,,,,138.8753129,-34.901501,4
+Telegraph Hotel,,,,152.0198476,-29.0558425,4
+Caledonian Hotel,,,,142.021188,-37.741939,4
+Caledonian Hotel,,,,149.782054,-30.3239449,4
+Commercial Hotel Motel,,,,151.845864,-29.4425112,4
+Retreat Hotel,,,,148.811356,-21.4784707,4
+Telegraph Hotel,,,,148.8696897,-33.0918925,4
+Retreat Hotel,,,,147.131922,-41.4103247,4
+Rising Sun Hotel,,,,152.5942159,-27.643072,4
+Telegraph Hotel,,,,142.5702074,-33.3849943,4
+Retreat Hotel,280,Sydney Road,,144.961647,-37.771138,4
+Newmarket Hotel,,,,138.5062147,-34.8461774,4
+Newmarket Hotel,,,,138.5876994,-34.9224245,4
+Commercial Hotel Motel,,,,150.1530403,-33.4825172,4
+Telegraph Hotel,,,,144.5914904,-37.4881935,4
+Caledonian Hotel,,,,151.1748502,-32.5611719,4
+Newmarket Hotel,,,,151.1965859,-33.9216393,4
+Wheatsheaf Hotel,39,George Street,,138.5753671,-34.9189668,4
+Newmarket Hotel,,,,144.9830228,-37.8641218,4
+Empire Hotel,,,,146.6879975,-36.3600814,4
+Wheatsheaf Hotel,,,,141.6525218,-36.108765,4
+Grandview Hotel,47,Pearson Street,,144.9488794,-37.7663282,3
+Station Hotel,,,,151.4857166,-32.823469,3
+Tourist Hotel,,,,149.2329859,-35.3537438,3
+Grandview Hotel,,,,148.2479294,-20.0154216,3
+Oriental Hotel,112,Macquarie Road,,150.5679332,-33.6995092,3
+Doolan Brothers,,,,174.7224055,-36.9253086,3
+Esplanade Hotel,11,The Esplanade,,144.973013,-37.8640582,3
+The Royal,,,,145.0335739,-38.2185087,3
+Station Hotel,59,Napier Street,,144.9015596,-37.8045679,3
+The Union Hotel,,,,144.9164886,-37.7719515,3
+Irish Murphy's,,,,147.1344525,-41.43994,3
+Irish Murphy's,,,,147.3308232,-42.8865882,3
+Belgian Beer Cafe,5,Riverside Quay,,144.9644575,-37.8214816,3
+Belgian Beer Cafe,,,,138.6094954,-34.9228504,3
+Club House Hotel,,,,149.5641108,-33.6892321,3
+Doolan Brothers,,,,174.8086291,-36.897238,3
+Grandview Hotel,,,,145.017188,-37.783184,3
+Oriental Hotel,,,,151.7684265,-32.9311677,3
+The Union Hotel,576,King Street,,151.1802051,-33.9040023,3
+Station Hotel,,,,144.9903572,-37.8492799,3
+Tourist Hotel,,,,150.567126,-32.3351438,3
+Speights Ale House,,,,168.6623415,-45.0310598,3
+Pig and Whistle,,,,168.6623979,-45.0315186,3
+Great Western Hotel,204,King Street,,144.9554829,-37.8152173,3
+Family Hotel,,,,150.9167877,-31.0940572,3
+Esplanade Hotel,,,,138.5148982,-35.0170783,3
+Ocean View Hotel,15,Morgo Street,,153.0219258,-30.4953527,3
+The Royal,60,Royal Street,,115.8778487,-31.9525382,3
+RSL,,,,152.1032516,-26.8845111,3
+Ocean View Hotel,,,,145.4763785,-38.5495568,3
+Belgian Beer Cafe,,,,115.85535,-31.9519237,3
+Tourist Hotel,,,,149.7828858,-30.3246559,3
+RSL,,,,150.6714312,-35.0384038,3
+Family Hotel,,Ellen Street,,138.0103472,-33.1780381,3
+Gladstone Hotel,,,,151.1423617,-33.9035157,3
+Irish Murphy's,,,,143.8593606,-37.561878,3
+Pig and Whistle,,Tutanekai Street,,176.2518427,-38.1356018,3
+The Tavern,,,,151.6173394,-32.6013378,3
+Oxford Hotel,,,,175.2883836,-40.6198029,3
+The Royal Hotel,370,Abercrombie Street,,151.191732,-33.89261,3
+Great Western Hotel,,,,145.838887,-31.4981999,3
+Family Hotel,,,,145.4327602,-34.4073795,3
+Pig and Whistle,,,,144.9582775,-38.3857211,3
+The Royal Hotel,,,,173.286829,-41.2727229,3
+The Tavern,,,,173.2864935,-41.2744566,3
+Gladstone Hotel,,,,151.7840157,-32.917104,3
+Oxford Hotel,,,,150.5134826,-23.3779826,3
+Ocean View Hotel,,,,151.7197831,-32.9895274,3
+The Royal Hotel,67,Brooke Street,,143.8685962,-36.5758443,3
+RSL,,,,153.1670216,-28.0186657,3
+Gladstone Hotel,,Railway Street,,145.9804351,-27.247839,3
+Oriental Hotel,,,,148.2250507,-35.3003494,3
+Esplanade Hotel,,,,145.7288889,-38.6341869,3
+The Good Home,,,,174.7646906,-36.8691544,3
+Brothers Beer,,,,174.7585169,-36.8501354,3
+Great Western Hotel,,,,142.8542549,-37.1515017,3
+Speights Ale House,,,,168.3468911,-46.4112643,3
+Doolan Brothers,,,,174.776475,-36.8671711,3
+Oxford Hotel,61,Otho Street,,151.112216,-29.7751989,3
+The Union Hotel,,,,141.6501154,-36.3340118,3
+The Royal,190,Mary Street,,152.6603387,-26.1895629,3
+Club House Hotel,91,Caswell Street,,148.1914313,-32.724811,3
+The Good Home,,,,174.7316483,-36.6282666,3
+Brothers Beer,,,,174.7589113,-36.8685496,3
+Brothers Beer,,,,174.8091491,-36.8631269,3
+The Tavern,,,,172.6603959,-43.6681846,3
+Speights Ale House,,,,175.2734408,-37.7807861,3
+The Good Home,,,,174.930519,-37.0512651,3
+Club House Hotel,,,,150.2518519,-30.9771717,3
+Alexandra Hotel,,,,150.3299989,-33.7110355,2
+Country Club Hotel,,,,151.2636139,-27.1835455,2
+Robin Hood Hotel,,,,151.2536568,-33.9008581,2
+Ocean Beach Hotel,,,,115.7528617,-31.9900286,2
+Royal Oak,,,,151.1809784,-33.8555843,2
+Memorial Club,,,,148.245833,-20.0118757,2
+Prince Alfred Hotel,191,Grattan Street,,144.9622254,-37.8004316,2
+Cambridge Hotel,,,,174.7828769,-41.2951348,2
+Cumberland Hotel,,,,144.2167416,-37.0645689,2
+Post Office Hotel,,,,144.9649421,-37.7487664,2
+Elephant & Wheelbarrow,,,,144.980793,-37.8581227,2
+Cumberland Hotel,,,,143.9488268,-37.3316871,2
+Victoria Tavern,,,,147.328225,-42.8839943,2
+Customs House,,,,147.3309891,-42.8848872,2
+Uni Bar,,,,147.3238973,-42.9031496,2
+The Duke of Edinburgh,,,,176.6114974,-40.3042696,2
+Post Office Hotel,,,,173.0107954,-41.1105545,2
+The Paddington,,,,115.8397641,-31.9220968,2
+Pioneer Tavern,,,,150.7106798,-33.776712,2
+Melbourne Hotel,,Browning Street,,153.0132072,-27.4776327,2
+Elephant & Wheelbarrow,94-96,Bourke Street,,144.970217,-37.811917,2
+Windsor Castle,,,,174.7794421,-36.8535279,2
+Victory Hotel,,,,153.4893323,-28.4418785,2
+Alexandra Hotel,64,Grant Street,,145.7093248,-37.1915307,2
+The Paddington,,,,174.7823592,-36.8505721,2
 The Pioneer,,,,174.6948826,-36.5875352,2
 The Local Taphouse,,Carlisle Street,,144.9899304,-37.8681669,2
-Shamrock Hotel,,,,150.8897732,-32.2653373,5
-Prince of Wales Hotel,,,,150.8871598,-32.2681012,4
-Grand Hotel,,,,152.0457499,-25.5123807,11
-Commercial Hotel Motel,,,,152.0449185,-25.5116961,4
-Imperial Hotel,,,,149.9818058,-33.3546816,15
 Windsor Castle,,,,151.5893455,-32.7499398,2
-Railway Hotel,,,,149.9693989,-32.859508,24
 Oasis Hotel,,,,151.054311,-33.926061,2
-Exchange Hotel,,,,152.4621222,-31.9130567,6
-Royal Hotel,,,,152.4606314,-31.9139606,45
-Australian Hotel,,,,152.6823342,-27.9979766,8
-Commercial Hotel,,,,152.6820729,-27.9971988,48
-Royal Hotel,,,,152.5831624,-25.728569,45
-Commercial Hotel,,,,175.8389819,-37.3921439,48
-Belgian Beer Cafe,,,,115.85535,-31.9519237,3
-Albion Hotel,300,Sandgate Road,,153.0416146,-27.4297699,5
-Royal Hotel,,,,143.2668142,-26.6686483,45
-Crown Hotel,,Urben Street,,152.5479466,-28.4723403,8
 Cricketers Arms,,,,151.2173241,-33.8856628,2
-Railway Hotel,,,,144.890716,-37.816784,24
-Royal Hotel,,,,150.5763976,-29.5413365,45
-Shamrock Hotel,,,,144.7000488,-36.3611125,5
-Royal Hotel,,,,151.0563422,-34.0319332,45
-Federal Hotel,,,,149.1866996,-26.5877794,7
 Harrigans,,,,151.3492186,-32.781539,2
-Victoria Hotel,380,Victoria Street,,144.9589904,-37.766843,20
-Commercial Hotel,,,,144.2237655,-37.6003624,48
-Royal Hotel,,,,149.2779758,-31.2746886,45
-Grand Hotel,129,Lee Street,,148.9406825,-32.5505175,11
 The Oxford Hotel,134,Oxford Street,,151.2167274,-33.8802585,2
 Hampden Hotel,,,,143.1450794,-38.2308035,2
-Commercial Hotel,,,,142.4144013,-36.0759447,48
-Royal Hotel,,,,149.8823569,-27.3221517,45
-Tourist Hotel,,,,149.7828858,-30.3246559,3
-Rising Sun Hotel,,,,138.8753129,-34.901501,4
 The Oxford Hotel,,,,151.1545107,-33.8512821,2
 Mac's Hotel,,,,142.4811753,-38.3779997,2
 The Rose Hotel,,,,144.899213,-37.858902,2
 Boathouse Tavern,,,,153.3141439,-27.8712831,2
-Telegraph Hotel,,,,152.0198476,-29.0558425,4
-Royal Hotel,,,,152.0203406,-29.0534457,45
 Pub,,,,140.3540571,-37.5949239,2
-Imperial Hotel,Lot 1,Rooty Hill Road North,,150.8435199,-33.771435,15
 Grand Tavern,,,,175.7141191,-37.5452724,2
-Australian Hotel,,,,146.8202013,-19.2604823,8
-Railway Hotel,,,,152.6765258,-26.4600363,24
 White Hart Hotel,,,,142.199928,-36.71451,2
-Caledonian Hotel,,,,142.021188,-37.741939,4
 Grand Central Hotel,,,,142.024312,-37.743051,2
-RSL,,,,150.6714312,-35.0384038,3
 Wallaroo Hotel,,Clara Street,,137.6215449,-33.9326889,2
-Family Hotel,,Ellen Street,,138.0103472,-33.1780381,3
 Country Club Hotel,,,,151.9338,-28.6562919,2
-Caledonian Hotel,,,,149.782054,-30.3239449,4
-Railway Hotel,,,,149.9534859,-30.5976229,24
-Railway Hotel,,,,150.0410242,-30.7035214,24
-Royal Hotel,,,,149.2338569,-35.3531083,45
-Railway Hotel,247,Commercial Road,,138.5067885,-34.8439152,24
-Gladstone Hotel,,,,151.1423617,-33.9035157,3
 Pier Hotel,,The Esplanade,,121.8933799,-33.8615833,2
-Irish Murphy's,,,,143.8593606,-37.561878,3
-Commercial Hotel Motel,,,,151.845864,-29.4425112,4
-Victoria Hotel,,,,144.5267346,-37.357701,20
 Mac's Hotel,,,,140.7798574,-37.8304046,2
-Federal Hotel,112,Commercial Street East,,140.7870886,-37.8307393,7
-Commercial Hotel,,,,140.7770292,-37.8271583,48
-Pig and Whistle,,Tutanekai Street,,176.2518427,-38.1356018,3
-Union Hotel,,,,144.7064062,-36.9200629,5
-Bridge Hotel,,,,143.9894618,-37.5591425,5
-Federal Hotel,,,,149.5890795,-32.6005738,7
-Royal Hotel,,,,149.8285243,-31.3465034,45
-Club Hotel,,,,151.5991906,-29.4430334,5
-Imperial Hotel,,,,149.2771106,-31.2736981,15
-Bridge Hotel,,,,147.7028601,-35.9287052,5
-Australian Hotel,,,,148.5789862,-28.035344,8
-Club Hotel,,,,151.8390154,-26.5408195,5
 The Duke of Edinburgh,,,,149.0660031,-21.1603735,2
-Railway Hotel,,,,145.7727814,-16.9242798,24
 The Local Taphouse,122,Flinders Street,,151.2181272,-33.8846302,2
-The Tavern,,,,151.6173394,-32.6013378,3
-Retreat Hotel,,,,148.811356,-21.4784707,4
-Commercial Hotel,,,,150.1963142,-23.9083836,48
-Oxford Hotel,,,,175.2883836,-40.6198029,3
-The Royal Hotel,370,Abercrombie Street,,151.191732,-33.89261,3
-Commercial Hotel,,,,145.0890253,-37.6510383,48
-Club Hotel,,,,175.4107015,-40.5475253,5
-Albion Hotel,155,Murray Street,,145.5773726,-35.6417954,5
-Royal Mail Hotel,,,,144.4095082,-28.9976435,5
 Oasis Hotel,,,,145.846333,-29.3204952,2
-Tattersalls Hotel,,Mitchell Highway,,145.7133418,-29.0126481,9
-Telegraph Hotel,,,,148.8696897,-33.0918925,4
 Prince Alfred Hotel,,,,152.5427415,-25.8331494,2
-Central Hotel,,,,152.7011446,-25.539622,7
-Metropolitan Hotel,,,,149.1896371,-21.1442974,5
-Retreat Hotel,,,,147.131922,-41.4103247,4
-Junction Hotel,1,Plenty Road,,145.001999,-37.751481,5
-Royal Hotel,,,,150.3038762,-28.5467353,45
-Victoria Hotel,,,,150.3048786,-28.5464828,20
-Commercial Hotel,,,,146.7845068,-37.9838019,48
-Railway Hotel,,,,146.7870163,-37.9808696,24
-Rising Sun Hotel,,,,152.5942159,-27.643072,4
-Metropolitan Hotel,,Hartwood Street,,146.3152178,-32.0651899,5
-Great Western Hotel,,,,145.838887,-31.4981999,3
-Commercial Hotel,80,Capella Street,,147.6400145,-22.8256264,48
-Grand Hotel,,,,147.6401002,-22.8248194,11
-Family Hotel,,,,145.4327602,-34.4073795,3
-Commercial Hotel,57,Brook Street,,142.6639861,-35.6807067,48
-Telegraph Hotel,,,,142.5702074,-33.3849943,4
-Royal Mail Hotel,,,,145.7097027,-33.9821067,5
-Railway Hotel,,,,143.7227375,-36.1165225,24
 Memorial Club,,,,134.1883978,-19.647122,2
-Tattersalls Hotel,,,,144.0341583,-35.0913515,9
 Grand Central Hotel,,,,153.0261915,-27.466158,2
-Commercial Hotel,,,,153.3372194,-27.9894796,48
-Royal Hotel,,,,152.2777252,-27.5555662,45
-Imperial Hotel,,,,149.4443154,-30.2251042,15
-Tattersalls Hotel,,,,149.0678648,-30.9494453,9
-Victoria Hotel,,Meylin Street,,140.7002393,-38.0525775,20
-Royal Hotel,,,,151.75668,-32.4048833,45
-Retreat Hotel,280,Sydney Road,,144.961647,-37.771138,4
-Victoria Hotel,43,Victoria Street,,144.8928148,-37.8020622,20
-Central Hotel,,,,148.0251086,-34.6379722,7
-Commercial Hotel,,,,150.6471796,-31.3521243,48
-Railway Hotel,,,,150.6472631,-31.3508142,24
-Victoria Hotel,,,,150.6105041,-30.3802058,20
-Imperial Hotel,,,,150.571551,-29.8673782,15
-Commercial Hotel,,,,150.6110066,-30.3774492,48
-Commercial Hotel,,,,151.0759854,-30.1703489,48
-Courthouse Hotel,,,,150.7211468,-30.7492688,7
-Imperial Hotel,,,,150.7192381,-30.7460387,15
-Royal Hotel,,,,150.7203622,-30.7474804,45
-Pig and Whistle,,,,144.9582775,-38.3857211,3
 Hampden Hotel,,,,153.0151784,-30.2223861,2
-The Royal Hotel,,,,173.286829,-41.2727229,3
-Union Hotel,,,,138.5969756,-34.92578,5
-Royal Hotel,,,,146.624593,-33.8752309,45
-Royal Hotel,,,,141.9959766,-35.8981998,45
-Tattersalls Hotel,,,,145.5303492,-33.4858695,9
-Royal Hotel,,Kidman Way,,145.8794637,-32.8398177,45
-Criterion Hotel,,,,146.0041767,-36.0088861,7
-Royal Mail Hotel,,Melbourne Street,,146.0022911,-35.9920973,5
-Commercial Hotel,35,Main Street,,142.5858487,-36.460996,48
-Royal Hotel,,,,147.739889,-33.8434069,45
-The Tavern,,,,173.2864935,-41.2744566,3
-Crown Hotel,,,,141.9189862,-34.1071023,8
-Commercial Hotel,,Adams Street,,141.9180686,-34.1075886,48
-Commercial Hotel,,,,146.2541231,-37.5698358,48
-Royal Hotel,,,,145.7076159,-38.3680977,45
-Railway Hotel,,,,150.8121759,-33.6131084,24
-Railway Hotel,,,,143.5627451,-37.6870294,24
-Gladstone Hotel,,,,151.7840157,-32.917104,3
-Town Hall Hotel,,,,151.178632,-33.898041,5
-Oxford Hotel,,,,150.5134826,-23.3779826,3
-Criterion Hotel,,,,148.1048006,-35.0646492,7
-Ocean View Hotel,,,,151.7197831,-32.9895274,3
-Grand Hotel,,,,147.047411,-43.033028,11
-Victoria Hotel,12,Taverner Street,,142.4210656,-35.9405665,20
-The Royal Hotel,67,Brooke Street,,143.8685962,-36.5758443,3
-RSL,,,,153.1670216,-28.0186657,3
-Railway Hotel,,,,146.7261826,-36.5581893,24
-Courthouse Hotel,,,,147.9055471,-36.1956007,7
-Gladstone Hotel,,Railway Street,,145.9804351,-27.247839,3
 Palace Hotel,,,,145.057405,-37.826396,2
-Oriental Hotel,,,,148.2250507,-35.3003494,3
-Commercial Hotel,,,,148.2470401,-20.013883,48
-Esplanade Hotel,,,,145.7288889,-38.6341869,3
 Customs House,17,Macquarie Place,,151.2097728,-33.8630678,2
-Star Hotel,,,,146.6724879,-36.1056154,7
-Exchange Hotel,,,,149.3759749,-31.5538133,6
-Royal Hotel,,,,148.6936548,-33.1857846,45
 Harrigans,,,,153.3762533,-27.7870324,2
 The Farmers Arms,,Albert Street,,143.8945549,-37.4216156,2
 Boathouse Tavern,,,,115.7222895,-32.5341755,2
-Royal Hotel,,,,149.378352,-31.552574,45
-Federal Hotel,,,,152.8962125,-30.4517383,7
-Courthouse Hotel,189,Oxford Street,,151.21661,-33.8806577,7
-Tattersalls Hotel,,,,148.5763082,-29.5456926,9
-Royal Hotel,,,,150.7528385,-33.5975317,45
-Commercial Hotel,,,,152.9524348,-29.0867701,48
-Newmarket Hotel,,,,138.5062147,-34.8461774,4
-Newmarket Hotel,,,,138.5876994,-34.9224245,4
-Commercial Hotel,22,Commercial Street,,138.938204,-33.6827671,48
-Union Hotel,,,,176.8974221,-39.4805694,5
-Commercial Hotel,,,,151.0958546,-29.3221528,48
-Tattersalls Hotel,,,,151.5977791,-29.4450165,9
-Tattersalls Hotel,,,,149.2547625,-33.5334963,9
 The Craic,,,,172.6025516,-43.5294396,2
-Commercial Hotel,,,,148.3882903,-30.9544977,48
-Imperial Hotel,,,,153.2003836,-27.7160983,15
-Royal Hotel,,,,153.2003066,-27.7156754,45
-Royal Oak Hotel,,,,151.0054473,-33.807511,7
-Commercial Hotel Motel,,,,150.1530403,-33.4825172,4
 Globe Hotel,,,,149.2391162,-36.9113437,2
-Imperial Hotel,,,,149.2401863,-36.9106245,15
-Grand Hotel,,,,149.8405835,-36.6740466,11
-Telegraph Hotel,,,,144.5914904,-37.4881935,4
 Ocean Beach Hotel,,,,150.8698851,-34.5781353,2
 Pastoral Hotel,17,Stirling Road,,137.7692524,-32.4967047,2
 Grand Tavern,,,,169.3144336,-45.5397887,2
-Royal Hotel,,,,151.2117328,-29.9547747,45
-Railway Hotel,2,High Street,,144.1722125,-38.044827,24
-Victoria Hotel,20,Victoria Street,,144.1143008,-36.055488,20
-Star Hotel,,,,146.4601932,-36.0541424,7
-The Good Home,,,,174.7646906,-36.8691544,3
-Grand Hotel,,,,142.2198207,-10.5848775,11
 Robin Hood Hotel,,,,138.8927017,-35.2546135,2
-Commercial Hotel,,,,138.8931114,-35.2559537,48
-Brothers Beer,,,,174.7585169,-36.8501354,3
 The Brewhouse,,,,150.9007865,-33.7458586,2
-Commercial Hotel,,,,152.0189727,-29.0532578,48
-Federal Hotel,,,,142.2153284,-10.5854747,7
-Criterion Hotel,61,High Street,,145.0161746,-36.5889945,7
-Victoria Hotel,,,,142.3169034,-35.071157,20
-Royal Mail Hotel,,,,142.3947638,-36.2517805,5
-Town Hall Hotel,,,,142.7795645,-37.0569773,5
-Great Western Hotel,,,,142.8542549,-37.1515017,3
 Globe Hotel,2,Sanger Street,,146.3909883,-36.0006609,2
-Royal Hotel,95,Sanger Street,,146.3914197,-35.9984948,45
-Star Hotel,118,Sanger Street,,146.3910071,-35.9978557,7
-Royal Hotel,,,,144.1429625,-37.3417675,45
-Commercial Hotel,95,Godfrey Street,,143.7254096,-36.1166379,48
-Albion Hotel,,,,146.9145714,-36.0807254,5
 Victory Hotel,,,,138.4737967,-35.3294017,2
-Courthouse Hotel,,,,144.9498103,-37.8029031,7
-Victoria Hotel,,,,147.1783154,-36.2174131,20
-Metropolitan Hotel,1,Bridge Street,,151.2077121,-33.8638339,5
-Victoria Hotel,,,,142.4855439,-38.3817946,20
-Speights Ale House,,,,168.3468911,-46.4112643,3
-Grand Hotel,,,,152.2774591,-25.2367066,11
-Railway Hotel,19,Spring Street,,149.1549127,-33.4009655,24
 Pub,,,,140.3550658,-37.5959496,2
-Caledonian Hotel,,,,151.1748502,-32.5611719,4
-Commercial Hotel,,,,150.8889339,-32.1616304,48
 White Hart Hotel,,,,150.8392451,-31.7647605,2
-Newmarket Hotel,,,,151.1965859,-33.9216393,4
-Railway Hotel,,,,150.7425307,-23.1287801,24
-Central Hotel,,,,150.5546867,-23.3744779,7
-Wheatsheaf Hotel,39,George Street,,138.5753671,-34.9189668,4
-Royal Oak Hotel,321,High Street South,,175.5161036,-41.0366444,7
 Victoria Tavern,,,,150.520792,-23.3724442,2
-Newmarket Hotel,,,,144.9830228,-37.8641218,4
 Civic Hotel,,,,153.2753452,-28.8099189,2
 Melbourne Hotel,,,,152.3531634,-24.8714814,2
-Star Hotel,,,,148.1598172,-23.5259394,7
-Junction Hotel,,,,141.7962718,-37.8582151,5
-Junction Hotel,,,,141.1860043,-38.081393,5
-Exchange Hotel,,Bruford Street,,144.5476255,-22.5931333,6
-Royal Mail Hotel,,,,153.039137,-26.3915453,5
-Tattersalls Hotel,,,,152.3589527,-24.8704298,9
 The Brewhouse,,,,152.3535463,-24.8651203,2
-Doolan Brothers,,,,174.776475,-36.8671711,3
-Empire Hotel,,,,146.6879975,-36.3600814,4
-Victoria Hotel,337,Gosport Street,,149.8469119,-29.4734198,20
-Criterion Hotel,,,,152.0328942,-28.2154808,7
-Imperial Hotel,33,Byron Street,,151.1116792,-29.7736627,15
-Australian Hotel,81-87,Byron Street,,151.1131598,-29.7726544,8
-Oxford Hotel,61,Otho Street,,151.112216,-29.7751989,3
 The Rose Hotel,406,Napier Street,,144.9814035,-37.7955069,2
 The Pioneer,,,,175.3261963,-38.0100591,2
 Palace Hotel,,,,151.2055835,-33.8796489,2
 The Farmers Arms,,,,141.6489624,-36.3336583,2
-The Union Hotel,,,,141.6501154,-36.3340118,3
-Commercial Hotel,,,,138.6132102,-32.7343317,48
 Civic Hotel,,,,151.2077158,-33.8778723,2
-The Royal,190,Mary Street,,152.6603387,-26.1895629,3
 The Craic,,,,176.9981465,-37.9505471,2
-Imperial Hotel,,,,151.7356411,-29.7368459,15
 Uni Bar,,,,153.0526365,-27.5523124,2
-Club Hotel,225,Ipswich Street,,152.4192251,-27.2365949,5
-Commercial Hotel,,,,146.5733568,-38.1253869,48
-Club House Hotel,91,Caswell Street,,148.1914313,-32.724811,3
 Cricketers Arms,,,,151.1821405,-33.8576224,2
-Royal Hotel,,Dubbo Street,,147.8367414,-31.7009917,45
-The Good Home,,,,174.7316483,-36.6282666,3
-Tattersalls Hotel,,,,145.565102,-35.8120472,9
-Commercial Hotel,,,,147.8817141,-34.5000819,48
-Brothers Beer,,,,174.7589113,-36.8685496,3
-Brothers Beer,,,,174.8091491,-36.8631269,3
-The Tavern,,,,172.6603959,-43.6681846,3
 Royal Oak,,,,138.6269043,-35.1085409,2
-Federal Hotel,,,,149.1510886,-34.0848063,7
-Railway Hotel,,,,152.8320038,-31.0794666,24
-Commercial Hotel,,,,144.7085741,-36.9219637,48
-Exchange Hotel,,,,145.0190947,-20.7699888,6
-Victoria Hotel,,,,151.6488339,-32.7149605,20
-Crown Hotel,,,,174.7133159,-36.8695319,8
-Albion Hotel,,,,151.7599507,-32.9215148,5
-Speights Ale House,,,,175.2734408,-37.7807861,3
-Commercial Hotel,,,,118.2773533,-31.4819403,48
-Wheatsheaf Hotel,,,,141.6525218,-36.108765,4
-Commercial Hotel,,,,151.0068518,-33.8180011,48
-Albion Hotel,,,,145.213661,-37.9857681,5
-The Good Home,,,,174.930519,-37.0512651,3
-Royal Hotel,,,,148.174729,-33.1362912,45
-Commercial Hotel,,,,148.1752118,-33.1381441,48
 Cambridge Hotel,,,,148.1754479,-33.1388988,2
-Star Hotel,,,,148.1739163,-33.1337532,7
 Pier Hotel,1751,Botany Road,,151.210549,-33.9596301,2
 Pioneer Tavern,,,,175.6547436,-37.2918193,2
-Imperial Hotel,,,,150.2499392,-30.9781921,15
 Wallaroo Hotel,,,,150.7507145,-29.2521212,2
-Commercial Hotel,,,,150.5750272,-29.5418313,48
-Club House Hotel,,,,150.2518519,-30.9771717,3
-Courthouse Hotel,,,,150.2561356,-30.9793935,7
-Royal Hotel,,,,151.9814179,-26.8408662,45
-Royal Oak Hotel,,,,175.5017542,-36.9840829,7
-Commercial Hotel,161,Brisbane Street,,148.6033566,-32.2482176,48
 Pastoral Hotel,112,Talbragar Street,,148.6056645,-32.2451944,2
-Crown Hotel,,,,151.2126744,-33.891384,8
