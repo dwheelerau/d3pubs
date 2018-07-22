@@ -1,14 +1,10 @@
 var h = 300;
 var w = 500;
 
-
-var projection = d3.geo.conicConformal()
-    .rotate([-132, 0])
-    .center([0, -27])
-    .parallels([-18, -36])
-    .scale([500])
-    .translate([w / 2, h / 2])
-    .precision(0.1);
+var projection = d3.geoMercator()
+    .scale(4000)
+    .center([2.8, 41.9])
+    .translate([width/2, height/2]);
 
 var path = d3.geoPath(projection);
 // put color scale here
