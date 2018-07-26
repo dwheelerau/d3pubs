@@ -1,4 +1,4 @@
-name,number,street,city,cord1,cord2,freq
+name,number,street,city,lon,lat,freq
 Commercial Hotel,,,,153.003494,-28.6204991,48
 Commercial Hotel,,,,151.2645838,-27.1824842,48
 Commercial Hotel,,,,148.8194173,-34.7664471,48
