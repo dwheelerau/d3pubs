@@ -1,0 +1,473 @@
+name,number,street,city,lon,lat,freq,sub_info
+Commercial Hotel,,,,153.003494,-28.6204991,48,Stony Chute NSW
+Commercial Hotel,,,,151.2645838,-27.1824842,48,Grassdale QLD
+Commercial Hotel,,,,148.8194173,-34.7664471,48,Woolgarlo NSW
+Commercial Hotel,,,,148.8834933,-37.146975,48,Simpsons Creek VIC
+Commercial Hotel,,,,150.9018322,-34.4811614,48,Port Kembla NSW
+Commercial Hotel,,,,147.1388631,-41.4340266,48,Rocherlea TAS
+Commercial Hotel,,,,172.3257256,-41.7999334,48,Lord Howe Island NSW
+Commercial Hotel,,,,148.2222836,-35.3014866,48,Mundarlo NSW
+Commercial Hotel,,,,150.4362116,-35.3162684,48,Cunjurong Point NSW
+Commercial Hotel,,,,142.0216461,-37.7424026,48,Tarrington VIC
+Commercial Hotel,,,,138.6055871,-33.2058038,48,Jamestown SA
+Commercial Hotel,,,,142.198844,-36.716414,48,Horsham West VIC
+Commercial Hotel,65,Grant Street,,145.7100304,-37.1917292,48,Taggerty VIC
+Commercial Hotel,,,,152.6820729,-27.9971988,48,Mount French QLD
+Commercial Hotel,,,,175.8389819,-37.3921439,48,Lord Howe Island NSW
+Commercial Hotel,,,,144.2237655,-37.6003624,48,Bunding VIC
+Commercial Hotel,,,,142.4144013,-36.0759447,48,Brim VIC
+Commercial Hotel,,,,140.7770292,-37.8271583,48,Mount Gambier DC SA
+Commercial Hotel,,,,150.1963142,-23.9083836,48,Johnsons Hill QLD
+Commercial Hotel,,,,145.0890253,-37.6510383,48,Morang South VIC
+Commercial Hotel,,,,146.7845068,-37.9838019,48,Crookayan VIC
+Commercial Hotel,80,Capella Street,,147.6400145,-22.8256264,48,Clermont QLD
+Commercial Hotel,57,Brook Street,,142.6639861,-35.6807067,48,Watchupga VIC
+Commercial Hotel,,,,153.3372194,-27.9894796,48,Benowa QLD
+Commercial Hotel,,,,150.6471796,-31.3521243,48,Werris Creek NSW
+Commercial Hotel,,,,150.6110066,-30.3774492,48,Gulf Creek NSW
+Commercial Hotel,,,,151.0759854,-30.1703489,48,Bundarra NSW
+Commercial Hotel,35,Main Street,,142.5858487,-36.460996,48,Minyip VIC
+Commercial Hotel,,Adams Street,,141.9180686,-34.1075886,48,Dareton NSW
+Commercial Hotel,,,,146.2541231,-37.5698358,48,Coalville VIC
+Commercial Hotel,,,,148.2470401,-20.013883,48,Queens Beach QLD
+Commercial Hotel,,,,152.9524348,-29.0867701,48,East Coraki NSW
+Commercial Hotel,22,Commercial Street,,138.938204,-33.6827671,48,Booborowie SA
+Commercial Hotel,,,,151.0958546,-29.3221528,48,Pindaroi NSW
+Commercial Hotel,,,,148.3882903,-30.9544977,48,Conimbia NSW
+Commercial Hotel,,,,138.8931114,-35.2559537,48,Mcharg Creek SA
+Commercial Hotel,,,,152.0189727,-29.0532578,48,Jennings NSW
+Commercial Hotel,95,Godfrey Street,,143.7254096,-36.1166379,48,Boort VIC
+Commercial Hotel,,,,150.8889339,-32.1616304,48,Rossgole NSW
+Commercial Hotel,,,,138.6132102,-32.7343317,48,Booleroo Centre SA
+Commercial Hotel,,,,146.5733568,-38.1253869,48,Glengarry West VIC
+Commercial Hotel,,,,147.8817141,-34.5000819,48,Stockinbingal NSW
+Commercial Hotel,,,,144.7085741,-36.9219637,48,Knowsley VIC
+Commercial Hotel,,,,118.2773533,-31.4819403,48,Nangeenan WA
+Commercial Hotel,,,,151.0068518,-33.8180011,48,Harris Park NSW
+Commercial Hotel,,,,148.1752118,-33.1381441,48,Tichborne NSW
+Commercial Hotel,,,,150.5750272,-29.5418313,48,Warialda Rail NSW
+Commercial Hotel,161,Brisbane Street,,148.6033566,-32.2482176,48,Boothenba NSW
+Royal Hotel,,,,151.241874,-33.9183477,45,South Coogee NSW
+Royal Hotel,,,,151.2686395,-33.8948327,45,Tamarama NSW
+Royal Hotel,,,,170.1477951,-45.0236108,45,Lord Howe Island NSW
+Royal Hotel,,,,149.4169197,-33.032432,45,Orange East NSW
+Royal Hotel,,Obley Street,,148.6476646,-32.7540051,45,North Yeoval NSW
+Royal Hotel,,,,145.1267499,-37.0201323,45,Tallarook VIC
+Royal Hotel,,,,175.3223198,-41.116988,45,Lord Howe Island NSW
+Royal Hotel,,,,144.98958,-37.821557,45,Southbank VIC
+Royal Hotel,,,,144.9973808,-37.7887974,45,Fitzroy North VIC
+Royal Hotel,,,,150.247081,-31.3954081,45,Premer NSW
+Royal Hotel,,,,149.0479307,-33.6732557,45,Garland NSW
+Royal Hotel,,,,142.1993497,-36.7168351,45,Horsham West VIC
+Royal Hotel,,,,145.3860367,-17.3838797,45,Watsonville QLD
+Royal Hotel,,,,152.6242197,-27.9381745,45,Milora QLD
+Royal Hotel,,,,144.7294365,-37.5799845,45,Sunbury VIC
+Royal Hotel,,,,150.8317595,-31.76171,45,Green Creek NSW
+Royal Hotel,,,,152.4606314,-31.9139606,45,Coopernook NSW
+Royal Hotel,,,,152.5831624,-25.728569,45,Gungaloon QLD
+Royal Hotel,,,,143.2668142,-26.6686483,45,Eromanga QLD
+Royal Hotel,,,,150.5763976,-29.5413365,45,Warialda Rail NSW
+Royal Hotel,,,,151.0563422,-34.0319332,45,Jannali NSW
+Royal Hotel,,,,149.2779758,-31.2746886,45,Ropers Road NSW
+Royal Hotel,,,,149.8823569,-27.3221517,45,Glenmorgan QLD
+Royal Hotel,,,,152.0203406,-29.0534457,45,Jennings NSW
+Royal Hotel,,,,149.2338569,-35.3531083,45,Jerrabomberra NSW
+Royal Hotel,,,,149.8285243,-31.3465034,45,Box Ridge NSW
+Royal Hotel,,,,150.3038762,-28.5467353,45,Boggabilla NSW
+Royal Hotel,,,,152.2777252,-27.5555662,45,University Of Queensland QLD
+Royal Hotel,,,,151.75668,-32.4048833,45,Stroud Hill NSW
+Royal Hotel,,,,150.7203622,-30.7474804,45,Attunga NSW
+Royal Hotel,,,,146.624593,-33.8752309,45,Tullibigeal NSW
+Royal Hotel,,,,141.9959766,-35.8981998,45,Albacutya VIC
+Royal Hotel,,Kidman Way,,145.8794637,-32.8398177,45,Wallanthery NSW
+Royal Hotel,,,,147.739889,-33.8434069,45,Quandialla NSW
+Royal Hotel,,,,145.7076159,-38.3680977,45,Nyora VIC
+Royal Hotel,,,,148.6936548,-33.1857846,45,Cudal NSW
+Royal Hotel,,,,149.378352,-31.552574,45,Ropers Road NSW
+Royal Hotel,,,,150.7528385,-33.5975317,45,The Slopes NSW
+Royal Hotel,,,,153.2003066,-27.7156754,45,Loganholme QLD
+Royal Hotel,,,,151.2117328,-29.9547747,45,Old Mill NSW
+Royal Hotel,95,Sanger Street,,146.3914197,-35.9984948,45,Wahgunyah VIC
+Royal Hotel,,,,144.1429625,-37.3417675,45,Daylesford VIC
+Royal Hotel,,Dubbo Street,,147.8367414,-31.7009917,45,Mumblebone Plain NSW
+Royal Hotel,,,,148.174729,-33.1362912,45,Tichborne NSW
+Royal Hotel,,,,151.9814179,-26.8408662,45,Upper Yarraman QLD
+Railway Hotel,,,,144.9783322,-37.7806158,24,Carlton South VIC
+Railway Hotel,,,,144.2129482,-37.0625593,24,Castlemaine VIC
+Railway Hotel,,,,170.9637313,-42.7179611,24,Lord Howe Island NSW
+Railway Hotel,,,,144.0548081,-37.1123923,24,Green Gully VIC
+Railway Hotel,280,Ferrars Street,,144.9558859,-37.8354415,24,Garden City VIC
+Railway Hotel,,,,145.1379813,-37.0239435,24,Tallarook VIC
+Railway Hotel,,,,148.6958716,-33.8351495,24,Roseberg NSW
+Railway Hotel,,,,149.9693989,-32.859508,24,Brogans Creek NSW
+Railway Hotel,,,,144.890716,-37.816784,24,Yarraville West VIC
+Railway Hotel,,,,152.6765258,-26.4600363,24,Toolara Forest QLD
+Railway Hotel,,,,149.9534859,-30.5976229,24,Kaputar NSW
+Railway Hotel,,,,150.0410242,-30.7035214,24,Boggabri NSW
+Railway Hotel,247,Commercial Road,,138.5067885,-34.8439152,24,Port Adelaide SA
+Railway Hotel,,,,145.7727814,-16.9242798,24,Stratford QLD
+Railway Hotel,,,,146.7870163,-37.9808696,24,Crookayan VIC
+Railway Hotel,,,,143.7227375,-36.1165225,24,Boort VIC
+Railway Hotel,,,,150.6472631,-31.3508142,24,Werris Creek NSW
+Railway Hotel,,,,150.8121759,-33.6131084,24,Richmond Raaf NSW
+Railway Hotel,,,,143.5627451,-37.6870294,24,Mannibadar VIC
+Railway Hotel,,,,146.7261826,-36.5581893,24,Ovens VIC
+Railway Hotel,2,High Street,,144.1722125,-38.044827,24,Sutherlands Creek VIC
+Railway Hotel,19,Spring Street,,149.1549127,-33.4009655,24,Byng NSW
+Railway Hotel,,,,150.7425307,-23.1287801,24,Stockyard QLD
+Railway Hotel,,,,152.8320038,-31.0794666,24,Moparrabah NSW
+Victoria Hotel,,,,151.1672165,-33.8826123,20,Lilyfield NSW
+Victoria Hotel,55,Baylis Street,,147.3693206,-35.1174828,20,Newcastle University NSW
+Victoria Hotel,,,,144.9557059,-37.805652,20,Abeckett Street VIC
+Victoria Hotel,205,Hogan Street,,145.2322059,-36.4398577,20,Toolamba West VIC
+Victoria Hotel,,,,142.029131,-36.4550784,20,Dimboola VIC
+Victoria Hotel,27,The Mall,,130.842693,-12.4643506,20,Noonamah NT
+Victoria Hotel,,,,142.196871,-36.710478,20,Horsham West VIC
+Victoria Hotel,380,Victoria Street,,144.9589904,-37.766843,20,Brunswick South VIC
+Victoria Hotel,,,,144.5267346,-37.357701,20,Macedon VIC
+Victoria Hotel,,,,150.3048786,-28.5464828,20,Boggabilla NSW
+Victoria Hotel,,Meylin Street,,140.7002393,-38.0525775,20,Nene Valley SA
+Victoria Hotel,43,Victoria Street,,144.8928148,-37.8020622,20,Seddon West VIC
+Victoria Hotel,,,,150.6105041,-30.3802058,20,Gulf Creek NSW
+Victoria Hotel,12,Taverner Street,,142.4210656,-35.9405665,20,Reedy Dam VIC
+Victoria Hotel,20,Victoria Street,,144.1143008,-36.055488,20,Jungaburra VIC
+Victoria Hotel,,,,142.3169034,-35.071157,20,Nichols Point VIC
+Victoria Hotel,,,,147.1783154,-36.2174131,20,Huon VIC
+Victoria Hotel,,,,142.4855439,-38.3817946,20,Warrnambool West VIC
+Victoria Hotel,337,Gosport Street,,149.8469119,-29.4734198,20,Bullarah NSW
+Victoria Hotel,,,,151.6488339,-32.7149605,20,Phoenix Park NSW
+Imperial Hotel,,,,151.2684774,-27.1794538,15,Grassdale QLD
+Imperial Hotel,,,,151.5535647,-32.7311235,15,Wagga Wagga Raaf NSW
+Imperial Hotel,2-8,Bourke Street,,144.972707,-37.81127,15,Southbank VIC
+Imperial Hotel,,,,148.6876855,-33.8339802,15,Nyrang Creek NSW
+Imperial Hotel,,,,149.9818058,-33.3546816,15,Wallerawang NSW
+Imperial Hotel,Lot 1,Rooty Hill Road North,,150.8435199,-33.771435,15,Doonside NSW
+Imperial Hotel,,,,149.2771106,-31.2736981,15,Ropers Road NSW
+Imperial Hotel,,,,149.4443154,-30.2251042,15,The Pilliga NSW
+Imperial Hotel,,,,150.571551,-29.8673782,15,Bangheet NSW
+Imperial Hotel,,,,150.7192381,-30.7460387,15,Attunga NSW
+Imperial Hotel,,,,153.2003836,-27.7160983,15,Loganholme QLD
+Imperial Hotel,,,,149.2401863,-36.9106245,15,Rockton NSW
+Imperial Hotel,33,Byron Street,,151.1116792,-29.7736627,15,Rob Roy NSW
+Imperial Hotel,,,,151.7356411,-29.7368459,15,Rangers Valley NSW
+Imperial Hotel,,,,150.2499392,-30.9781921,15,Ghoolendaadi NSW
+Grand Hotel,,,,151.2493905,-33.8937464,11,Bondi Junction NSW
+Grand Hotel,499,Nepean Highway,,145.1204742,-38.1452014,11,Frankston East VIC
+Grand Hotel,,,,152.3778895,-27.0880723,11,Yimbun QLD
+Grand Hotel,,,,145.5172438,-37.6541164,11,Healesville Post Shop VIC
+Grand Hotel,,,,152.0457499,-25.5123807,11,Woowoonga QLD
+Grand Hotel,129,Lee Street,,148.9406825,-32.5505175,11,Stuart Town NSW
+Grand Hotel,,,,147.6401002,-22.8248194,11,Clermont QLD
+Grand Hotel,,,,147.047411,-43.033028,11,Franklin TAS
+Grand Hotel,,,,149.8405835,-36.6740466,11,New Buildings NSW
+Grand Hotel,,,,142.2198207,-10.5848775,11,New Mapoon QLD
+Grand Hotel,,,,152.2774591,-25.2367066,11,Horton QLD
+Tattersalls Hotel,,Mitchell Highway,,145.7133418,-29.0126481,9,Coongoola QLD
+Tattersalls Hotel,,,,144.0341583,-35.0913515,9,Dhuragoon NSW
+Tattersalls Hotel,,,,149.0678648,-30.9494453,9,Kenebri NSW
+Tattersalls Hotel,,,,145.5303492,-33.4858695,9,Wallanthery NSW
+Tattersalls Hotel,,,,148.5763082,-29.5456926,9,Collarenebri NSW
+Tattersalls Hotel,,,,151.5977791,-29.4450165,9,Rangers Valley NSW
+Tattersalls Hotel,,,,149.2547625,-33.5334963,9,Neville NSW
+Tattersalls Hotel,,,,152.3589527,-24.8704298,9,George Street QLD
+Tattersalls Hotel,,,,145.565102,-35.8120472,9,Barooga NSW
+Crown Hotel,,,,151.2094508,-33.8782586,8,Ultimo NSW
+Australian Hotel,,,,150.8340237,-33.6149091,8,Richmond Raaf NSW
+Crown Hotel,,,,153.0332896,-27.424463,8,Lutwyche QLD
+Crown Hotel,,,,144.0609994,-37.1072225,8,Green Gully VIC
+Australian Hotel,,,,148.6846935,-33.8327225,8,Nyrang Creek NSW
+Australian Hotel,,,,149.1254416,-36.2350383,8,Bobundara NSW
+Crown Hotel,,,,143.8836564,-37.6499256,8,Buninyong VIC
+Australian Hotel,,,,145.3859026,-17.3837466,8,Watsonville QLD
+Australian Hotel,,,,152.6823342,-27.9979766,8,Mount French QLD
+Crown Hotel,,Urben Street,,152.5479466,-28.4723403,8,Tooloom NSW
+Australian Hotel,,,,146.8202013,-19.2604823,8,Townsville MC QLD
+Australian Hotel,,,,148.5789862,-28.035344,8,Begonia QLD
+Crown Hotel,,,,141.9189862,-34.1071023,8,Dareton NSW
+Australian Hotel,81-87,Byron Street,,151.1131598,-29.7726544,8,Rob Roy NSW
+Crown Hotel,,,,174.7133159,-36.8695319,8,Lord Howe Island NSW
+Crown Hotel,,,,151.2126744,-33.891384,8,Moore Park NSW
+Criterion Hotel,,,,151.2662204,-27.1863046,7,Grassdale QLD
+Star Hotel,,,,151.2045538,-33.877738,7,Ultimo NSW
+Central Hotel,,,,148.2472628,-20.0142812,7,Queens Beach QLD
+Royal Oak Hotel,,,,144.97665,-37.7895012,7,Fitzroy North VIC
+Criterion Hotel,,,,170.9700281,-45.1028126,7,Lord Howe Island NSW
+Courthouse Hotel,,,,144.9498707,-37.8029265,7,University Of Melbourne VIC
+Central Hotel,,,,142.9295218,-37.2837978,7,Rhymney VIC
+Courthouse Hotel,,,,142.9281647,-37.2845062,7,Rhymney VIC
+Royal Oak Hotel,14,Brisbane Street,,147.1420791,-41.4344562,7,Rocherlea TAS
+Star Hotel,,,,150.4367008,-35.3166536,7,Cunjurong Point NSW
+Royal Oak Hotel,,,,145.0640586,-37.9728461,7,Mentone East VIC
+Royal Oak Hotel,,,,142.2378896,-38.3836615,7,Willatook VIC
+Central Hotel,,,,150.9292492,-31.0898125,7,Tintinhull NSW
+Central Hotel,,,,150.9087927,-33.7693463,7,Stanhope Gardens NSW
+Criterion Hotel,162,Hogan Street,,145.2286712,-36.4402337,7,Toolamba West VIC
+Federal Hotel,,,,148.9451299,-32.5562034,7,Stuart Town NSW
+Federal Hotel,,,,149.1866996,-26.5877794,7,Wallumbilla South QLD
+Federal Hotel,112,Commercial Street East,,140.7870886,-37.8307393,7,Mount Gambier DC SA
+Federal Hotel,,,,149.5890795,-32.6005738,7,Twelve Mile NSW
+Central Hotel,,,,152.7011446,-25.539622,7,Mount Urah QLD
+Central Hotel,,,,148.0251086,-34.6379722,7,Wallendbeen NSW
+Courthouse Hotel,,,,150.7211468,-30.7492688,7,Attunga NSW
+Criterion Hotel,,,,146.0041767,-36.0088861,7,Bundalong South VIC
+Criterion Hotel,,,,148.1048006,-35.0646492,7,Jugiong NSW
+Courthouse Hotel,,,,147.9055471,-36.1956007,7,Cudgewa VIC
+Star Hotel,,,,146.6724879,-36.1056154,7,Barnawartha VIC
+Federal Hotel,,,,152.8962125,-30.4517383,7,Gleniffer NSW
+Courthouse Hotel,189,Oxford Street,,151.21661,-33.8806577,7,Darlinghurst NSW
+Royal Oak Hotel,,,,151.0054473,-33.807511,7,North Parramatta NSW
+Star Hotel,,,,146.4601932,-36.0541424,7,Wahgunyah VIC
+Federal Hotel,,,,142.2153284,-10.5854747,7,New Mapoon QLD
+Criterion Hotel,61,High Street,,145.0161746,-36.5889945,7,Waranga Shores VIC
+Star Hotel,118,Sanger Street,,146.3910071,-35.9978557,7,Wahgunyah VIC
+Courthouse Hotel,,,,144.9498103,-37.8029031,7,University Of Melbourne VIC
+Central Hotel,,,,150.5546867,-23.3744779,7,Nankin QLD
+Royal Oak Hotel,321,High Street South,,175.5161036,-41.0366444,7,Lord Howe Island NSW
+Star Hotel,,,,148.1598172,-23.5259394,7,Yamala QLD
+Criterion Hotel,,,,152.0328942,-28.2154808,7,Thane QLD
+Federal Hotel,,,,149.1510886,-34.0848063,7,Pejar NSW
+Star Hotel,,,,148.1739163,-33.1337532,7,Tichborne NSW
+Courthouse Hotel,,,,150.2561356,-30.9793935,7,Ghoolendaadi NSW
+Royal Oak Hotel,,,,175.5017542,-36.9840829,7,Lord Howe Island NSW
+Exchange Hotel,39,Bay Street,,144.9388392,-37.8419901,6,Garden City VIC
+Exchange Hotel,100,Firebrace Street,,142.199307,-36.715768,6,Horsham West VIC
+Exchange Hotel,,,,152.4621222,-31.9130567,6,Coopernook NSW
+Exchange Hotel,,,,149.3759749,-31.5538133,6,Ropers Road NSW
+Exchange Hotel,,Bruford Street,,144.5476255,-22.5931333,6,Tablederry QLD
+Exchange Hotel,,,,145.0190947,-20.7699888,6,Stamford QLD
+Town Hall Hotel,,,,151.178145,-33.8566974,5,Birchgrove NSW
+Bridge Hotel,,,,151.1688569,-33.8628297,5,Rozelle NSW
+Metropolitan Hotel,,,,144.9540832,-37.8018994,5,University Of Melbourne VIC
+Bridge Hotel,,,,149.546314,-33.487269,5,Neville NSW
+Shamrock Hotel,,,,147.3239257,-42.8841068,5,South Hobart TAS
+Junction Hotel,,,,144.2154555,-36.8926578,5,Lansell Plaza VIC
+Union Hotel,,,,147.3695422,-35.1140918,5,Newcastle University NSW
+Town Hall Hotel,135-137,Bank Street,,144.9634356,-37.8336229,5,Garden City VIC
+Junction Hotel,,,,151.7604048,-32.9383332,5,Newcastle East NSW
+Bridge Hotel,642,Bridge Road,,145.013453,-37.820242,5,Richmond South VIC
+Shamrock Hotel,,,,148.4034036,-33.9967187,5,Greenethorpe NSW
+Union Hotel,,,,144.993065,-37.854942,5,Prahran VIC
+Metropolitan Hotel,263,William Street,,144.9566006,-37.812927,5,Abeckett Street VIC
+Town Hall Hotel,166,Johnston Street,,144.980497,-37.79872,5,Collingwood North VIC
+Club Hotel,,,,116.14937,-33.3571486,5,Allanson WA
+Shamrock Hotel,120,Mollinson Street,,144.4536792,-37.2478307,5,Malmsbury VIC
+Shamrock Hotel,,,,150.8897732,-32.2653373,5,Rossgole NSW
+Albion Hotel,300,Sandgate Road,,153.0416146,-27.4297699,5,Albion DC QLD
+Shamrock Hotel,,,,144.7000488,-36.3611125,5,Bamawm Extension VIC
+Union Hotel,,,,144.7064062,-36.9200629,5,Knowsley VIC
+Bridge Hotel,,,,143.9894618,-37.5591425,5,Bakery Hill VIC
+Club Hotel,,,,151.5991906,-29.4430334,5,Rangers Valley NSW
+Bridge Hotel,,,,147.7028601,-35.9287052,5,Burrowye VIC
+Club Hotel,,,,151.8390154,-26.5408195,5,Barker Creek Flat QLD
+Club Hotel,,,,175.4107015,-40.5475253,5,Lord Howe Island NSW
+Albion Hotel,155,Murray Street,,145.5773726,-35.6417954,5,Boomanoomana NSW
+Royal Mail Hotel,,,,144.4095082,-28.9976435,5,Eulo QLD
+Metropolitan Hotel,,,,149.1896371,-21.1442974,5,Dundula QLD
+Junction Hotel,1,Plenty Road,,145.001999,-37.751481,5,Thornbury VIC
+Metropolitan Hotel,,Hartwood Street,,146.3152178,-32.0651899,5,Pangee NSW
+Royal Mail Hotel,,,,145.7097027,-33.9821067,5,Marrar NSW
+Union Hotel,,,,138.5969756,-34.92578,5,Station Arcade SA
+Royal Mail Hotel,,Melbourne Street,,146.0022911,-35.9920973,5,Mulwala NSW
+Town Hall Hotel,,,,151.178632,-33.898041,5,Westgate NSW
+Union Hotel,,,,176.8974221,-39.4805694,5,Lord Howe Island NSW
+Royal Mail Hotel,,,,142.3947638,-36.2517805,5,Lah VIC
+Town Hall Hotel,,,,142.7795645,-37.0569773,5,Stawell West VIC
+Albion Hotel,,,,146.9145714,-36.0807254,5,East Albury NSW
+Metropolitan Hotel,1,Bridge Street,,151.2077121,-33.8638339,5,Haymarket NSW
+Junction Hotel,,,,141.7962718,-37.8582151,5,Branxholme VIC
+Junction Hotel,,,,141.1860043,-38.081393,5,Nelson VIC
+Royal Mail Hotel,,,,153.039137,-26.3915453,5,Noosaville BC QLD
+Club Hotel,225,Ipswich Street,,152.4192251,-27.2365949,5,Yimbun QLD
+Albion Hotel,,,,151.7599507,-32.9215148,5,Newcastle West NSW
+Albion Hotel,,,,145.213661,-37.9857681,5,Mccrae VIC
+Empire Hotel,,,,151.1679118,-33.8877485,4,Lilyfield NSW
+Prince of Wales Hotel,2,Acland Street,,144.9740773,-37.8621338,4,St Kilda West VIC
+Retreat Hotel,226,Nicholson Street,,144.9976991,-37.8010822,4,Fitzroy North VIC
+Rising Sun Hotel,2,Raglan Street,,144.9666355,-37.8360786,4,Garden City VIC
+Prince of Wales Hotel,,,,147.333872,-42.8894928,4,South Hobart TAS
+Prince of Wales Hotel,109,Church Street,,145.0000973,-37.8146637,4,Richmond South VIC
+Rising Sun Hotel,395,Swan St,,145.0068283,-37.8265312,4,Richmond South VIC
+Commercial Hotel Motel,,,,152.7106959,-30.3397082,4,Gleniffer NSW
+Empire Hotel,,,,175.3283786,-41.1129573,4,Lord Howe Island NSW
+Empire Hotel,,,,148.2960747,-34.3120046,4,Crowther NSW
+Caledonian Hotel,,,,142.2341315,-38.3833696,4,Willatook VIC
+Wheatsheaf Hotel,,,,142.915684,-38.2406821,4,Terang VIC
+Wheatsheaf Hotel,,,,137.9961017,-34.2873685,4,Port Clinton SA
+Prince of Wales Hotel,,,,150.8871598,-32.2681012,4,Rossgole NSW
+Commercial Hotel Motel,,,,152.0449185,-25.5116961,4,Woowoonga QLD
+Rising Sun Hotel,,,,138.8753129,-34.901501,4,Lobethal SA
+Telegraph Hotel,,,,152.0198476,-29.0558425,4,Jennings NSW
+Caledonian Hotel,,,,142.021188,-37.741939,4,Tarrington VIC
+Caledonian Hotel,,,,149.782054,-30.3239449,4,Kaputar NSW
+Commercial Hotel Motel,,,,151.845864,-29.4425112,4,Yellow Dam NSW
+Retreat Hotel,,,,148.811356,-21.4784707,4,Septimus QLD
+Telegraph Hotel,,,,148.8696897,-33.0918925,4,Larras Lee NSW
+Retreat Hotel,,,,147.131922,-41.4103247,4,Rocherlea TAS
+Rising Sun Hotel,,,,152.5942159,-27.643072,4,Mount Forbes QLD
+Telegraph Hotel,,,,142.5702074,-33.3849943,4,Arumpo NSW
+Retreat Hotel,280,Sydney Road,,144.961647,-37.771138,4,Carlton South VIC
+Newmarket Hotel,,,,138.5062147,-34.8461774,4,Port Adelaide SA
+Newmarket Hotel,,,,138.5876994,-34.9224245,4,North Adelaide Melbourne St SA
+Commercial Hotel Motel,,,,150.1530403,-33.4825172,4,Wallerawang NSW
+Telegraph Hotel,,,,144.5914904,-37.4881935,4,New Gisborne VIC
+Caledonian Hotel,,,,151.1748502,-32.5611719,4,Leconfield NSW
+Newmarket Hotel,,,,151.1965859,-33.9216393,4,Sydney International Airport NSW
+Wheatsheaf Hotel,39,George Street,,138.5753671,-34.9189668,4,Torrensville SA
+Newmarket Hotel,,,,144.9830228,-37.8641218,4,St Kilda West VIC
+Empire Hotel,,,,146.6879975,-36.3600814,4,Murmungee VIC
+Wheatsheaf Hotel,,,,141.6525218,-36.108765,4,Yanac VIC
+Grandview Hotel,47,Pearson Street,,144.9488794,-37.7663282,3,Brunswick South VIC
+Station Hotel,,,,151.4857166,-32.823469,3,Kurri Kurri NSW
+Tourist Hotel,,,,149.2329859,-35.3537438,3,Jerrabomberra NSW
+Grandview Hotel,,,,148.2479294,-20.0154216,3,Queens Beach QLD
+Oriental Hotel,112,Macquarie Road,,150.5679332,-33.6995092,3,Faulconbridge NSW
+Doolan Brothers,,,,174.7224055,-36.9253086,3,Lord Howe Island NSW
+Esplanade Hotel,11,The Esplanade,,144.973013,-37.8640582,3,St Kilda West VIC
+The Royal,,,,145.0335739,-38.2185087,3,Kunyung VIC
+Station Hotel,59,Napier Street,,144.9015596,-37.8045679,3,Seddon West VIC
+The Union Hotel,,,,144.9164886,-37.7719515,3,Moonee Ponds VIC
+Irish Murphy's,,,,147.1344525,-41.43994,3,Rocherlea TAS
+Irish Murphy's,,,,147.3308232,-42.8865882,3,South Hobart TAS
+Belgian Beer Cafe,5,Riverside Quay,,144.9644575,-37.8214816,3,Flinders Lane VIC
+Belgian Beer Cafe,,,,138.6094954,-34.9228504,3,North Adelaide Melbourne St SA
+Club House Hotel,,,,149.5641108,-33.6892321,3,Oberon NSW
+Doolan Brothers,,,,174.8086291,-36.897238,3,Lord Howe Island NSW
+Grandview Hotel,,,,145.017188,-37.783184,3,Alphington VIC
+Oriental Hotel,,,,151.7684265,-32.9311677,3,Newcastle East NSW
+The Union Hotel,576,King Street,,151.1802051,-33.9040023,3,Tempe NSW
+Station Hotel,,,,144.9903572,-37.8492799,3,Prahran VIC
+Tourist Hotel,,,,150.567126,-32.3351438,3,Kayuga NSW
+Speights Ale House,,,,168.6623415,-45.0310598,3,Port Arthur TAS
+Pig and Whistle,,,,168.6623979,-45.0315186,3,Port Arthur TAS
+Great Western Hotel,204,King Street,,144.9554829,-37.8152173,3,Flinders Lane VIC
+Family Hotel,,,,150.9167877,-31.0940572,3,Tintinhull NSW
+Esplanade Hotel,,,,138.5148982,-35.0170783,3,South Brighton SA
+Ocean View Hotel,15,Morgo Street,,153.0219258,-30.4953527,3,Urunga NSW
+The Royal,60,Royal Street,,115.8778487,-31.9525382,3,East Victoria Park WA
+RSL,,,,152.1032516,-26.8845111,3,Upper Yarraman QLD
+Ocean View Hotel,,,,145.4763785,-38.5495568,3,Anderson VIC
+Belgian Beer Cafe,,,,115.85535,-31.9519237,3,Mount Lawley WA
+Tourist Hotel,,,,149.7828858,-30.3246559,3,Kaputar NSW
+RSL,,,,150.6714312,-35.0384038,3,Greenwell Point NSW
+Family Hotel,,Ellen Street,,138.0103472,-33.1780381,3,Port Pirie SA
+Gladstone Hotel,,,,151.1423617,-33.9035157,3,Dulwich Hill NSW
+Irish Murphy's,,,,143.8593606,-37.561878,3,Bakery Hill VIC
+Pig and Whistle,,Tutanekai Street,,176.2518427,-38.1356018,3,Lord Howe Island NSW
+The Tavern,,,,151.6173394,-32.6013378,3,Maitland North NSW
+Oxford Hotel,,,,175.2883836,-40.6198029,3,Lord Howe Island NSW
+The Royal Hotel,370,Abercrombie Street,,151.191732,-33.89261,3,The University Of Sydney NSW
+Great Western Hotel,,,,145.838887,-31.4981999,3,Pangee NSW
+Family Hotel,,,,145.4327602,-34.4073795,3,Coleambally NSW
+Pig and Whistle,,,,144.9582775,-38.3857211,3,Main Ridge VIC
+The Royal Hotel,,,,173.286829,-41.2727229,3,Lord Howe Island NSW
+The Tavern,,,,173.2864935,-41.2744566,3,Lord Howe Island NSW
+Gladstone Hotel,,,,151.7840157,-32.917104,3,Newcastle West NSW
+Oxford Hotel,,,,150.5134826,-23.3779826,3,The Keppels QLD
+Ocean View Hotel,,,,151.7197831,-32.9895274,3,Tingira Heights NSW
+The Royal Hotel,67,Brooke Street,,143.8685962,-36.5758443,3,Bridgewater On Loddon VIC
+RSL,,,,153.1670216,-28.0186657,3,Sarabah QLD
+Gladstone Hotel,,Railway Street,,145.9804351,-27.247839,3,Wyandra QLD
+Oriental Hotel,,,,148.2250507,-35.3003494,3,Mundarlo NSW
+Esplanade Hotel,,,,145.7288889,-38.6341869,3,Pound Creek VIC
+The Good Home,,,,174.7646906,-36.8691544,3,Lord Howe Island NSW
+Brothers Beer,,,,174.7585169,-36.8501354,3,Lord Howe Island NSW
+Great Western Hotel,,,,142.8542549,-37.1515017,3,Stawell West VIC
+Speights Ale House,,,,168.3468911,-46.4112643,3,Port Arthur TAS
+Doolan Brothers,,,,174.776475,-36.8671711,3,Lord Howe Island NSW
+Oxford Hotel,61,Otho Street,,151.112216,-29.7751989,3,Rob Roy NSW
+The Union Hotel,,,,141.6501154,-36.3340118,3,Miram VIC
+The Royal,190,Mary Street,,152.6603387,-26.1895629,3,Toolara Forest QLD
+Club House Hotel,91,Caswell Street,,148.1914313,-32.724811,3,Trewilga NSW
+The Good Home,,,,174.7316483,-36.6282666,3,Lord Howe Island NSW
+Brothers Beer,,,,174.7589113,-36.8685496,3,Lord Howe Island NSW
+Brothers Beer,,,,174.8091491,-36.8631269,3,Lord Howe Island NSW
+The Tavern,,,,172.6603959,-43.6681846,3,Lord Howe Island NSW
+Speights Ale House,,,,175.2734408,-37.7807861,3,Lord Howe Island NSW
+The Good Home,,,,174.930519,-37.0512651,3,Lord Howe Island NSW
+Club House Hotel,,,,150.2518519,-30.9771717,3,Ghoolendaadi NSW
+Alexandra Hotel,,,,150.3299989,-33.7110355,2,Katoomba DC NSW
+Country Club Hotel,,,,151.2636139,-27.1835455,2,Grassdale QLD
+Robin Hood Hotel,,,,151.2536568,-33.9008581,2,Bronte NSW
+Ocean Beach Hotel,,,,115.7528617,-31.9900286,2,Peppermint Grove WA
+Royal Oak,,,,151.1809784,-33.8555843,2,Birchgrove NSW
+Memorial Club,,,,148.245833,-20.0118757,2,Queens Beach QLD
+Prince Alfred Hotel,191,Grattan Street,,144.9622254,-37.8004316,2,University Of Melbourne VIC
+Cambridge Hotel,,,,174.7828769,-41.2951348,2,Lord Howe Island NSW
+Cumberland Hotel,,,,144.2167416,-37.0645689,2,Castlemaine VIC
+Post Office Hotel,,,,144.9649421,-37.7487664,2,Lygon Street North VIC
+Elephant & Wheelbarrow,,,,144.980793,-37.8581227,2,Prahran VIC
+Cumberland Hotel,,,,143.9488268,-37.3316871,2,Newlyn VIC
+Victoria Tavern,,,,147.328225,-42.8839943,2,South Hobart TAS
+Customs House,,,,147.3309891,-42.8848872,2,South Hobart TAS
+Uni Bar,,,,147.3238973,-42.9031496,2,University Of Tasmania TAS
+The Duke of Edinburgh,,,,176.6114974,-40.3042696,2,Lord Howe Island NSW
+Post Office Hotel,,,,173.0107954,-41.1105545,2,Lord Howe Island NSW
+The Paddington,,,,115.8397641,-31.9220968,2,Dog Swamp WA
+Pioneer Tavern,,,,150.7106798,-33.776712,2,Orchard Hills NSW
+Melbourne Hotel,,Browning Street,,153.0132072,-27.4776327,2,St Lucia South QLD
+Elephant & Wheelbarrow,94-96,Bourke Street,,144.970217,-37.811917,2,Southbank VIC
+Windsor Castle,,,,174.7794421,-36.8535279,2,Lord Howe Island NSW
+Victory Hotel,,,,153.4893323,-28.4418785,2,Middle Pocket NSW
+Alexandra Hotel,64,Grant Street,,145.7093248,-37.1915307,2,Taggerty VIC
+The Paddington,,,,174.7823592,-36.8505721,2,Lord Howe Island NSW
+The Pioneer,,,,174.6948826,-36.5875352,2,Lord Howe Island NSW
+The Local Taphouse,,Carlisle Street,,144.9899304,-37.8681669,2,St Kilda West VIC
+Windsor Castle,,,,151.5893455,-32.7499398,2,Metford DC NSW
+Oasis Hotel,,,,151.054311,-33.926061,2,Roselands NSW
+Cricketers Arms,,,,151.2173241,-33.8856628,2,Moore Park NSW
+Harrigans,,,,151.3492186,-32.781539,2,Kearsley NSW
+The Oxford Hotel,134,Oxford Street,,151.2167274,-33.8802585,2,Darlinghurst NSW
+Hampden Hotel,,,,143.1450794,-38.2308035,2,Gnotuk VIC
+The Oxford Hotel,,,,151.1545107,-33.8512821,2,Drummoyne NSW
+Mac's Hotel,,,,142.4811753,-38.3779997,2,Warrnambool West VIC
+The Rose Hotel,,,,144.899213,-37.858902,2,Williamstown North VIC
+Boathouse Tavern,,,,153.3141439,-27.8712831,2,Coomera QLD
+Pub,,,,140.3540571,-37.5949239,2,Wattle Range East SA
+Grand Tavern,,,,175.7141191,-37.5452724,2,Lord Howe Island NSW
+White Hart Hotel,,,,142.199928,-36.71451,2,Horsham West VIC
+Grand Central Hotel,,,,142.024312,-37.743051,2,Tarrington VIC
+Wallaroo Hotel,,Clara Street,,137.6215449,-33.9326889,2,Wallaroo Plain SA
+Country Club Hotel,,,,151.9338,-28.6562919,2,Applethorpe QLD
+Pier Hotel,,The Esplanade,,121.8933799,-33.8615833,2,Nulsen WA
+Mac's Hotel,,,,140.7798574,-37.8304046,2,Mount Gambier DC SA
+The Duke of Edinburgh,,,,149.0660031,-21.1603735,2,Dundula QLD
+The Local Taphouse,122,Flinders Street,,151.2181272,-33.8846302,2,Darlinghurst NSW
+Oasis Hotel,,,,145.846333,-29.3204952,2,Louth NSW
+Prince Alfred Hotel,,,,152.5427415,-25.8331494,2,Gungaloon QLD
+Memorial Club,,,,134.1883978,-19.647122,2,Brunchilly NT
+Grand Central Hotel,,,,153.0261915,-27.466158,2,Brisbane Adelaide Street QLD
+Hampden Hotel,,,,153.0151784,-30.2223861,2,Boambee NSW
+Palace Hotel,,,,145.057405,-37.826396,2,Camberwell North VIC
+Customs House,17,Macquarie Place,,151.2097728,-33.8630678,2,Haymarket NSW
+Harrigans,,,,153.3762533,-27.7870324,2,Coomera QLD
+The Farmers Arms,,Albert Street,,143.8945549,-37.4216156,2,Dean VIC
+Boathouse Tavern,,,,115.7222895,-32.5341755,2,Falcon WA
+The Craic,,,,172.6025516,-43.5294396,2,Lord Howe Island NSW
+Globe Hotel,,,,149.2391162,-36.9113437,2,Rockton NSW
+Ocean Beach Hotel,,,,150.8698851,-34.5781353,2,Warilla NSW
+Pastoral Hotel,17,Stirling Road,,137.7692524,-32.4967047,2,Arkaroola Village SA
+Grand Tavern,,,,169.3144336,-45.5397887,2,Port Arthur TAS
+Robin Hood Hotel,,,,138.8927017,-35.2546135,2,Mcharg Creek SA
+The Brewhouse,,,,150.9007865,-33.7458586,2,Stanhope Gardens NSW
+Globe Hotel,2,Sanger Street,,146.3909883,-36.0006609,2,Wahgunyah VIC
+Victory Hotel,,,,138.4737967,-35.3294017,2,Sellicks Beach SA
+Pub,,,,140.3550658,-37.5959496,2,Wattle Range East SA
+White Hart Hotel,,,,150.8392451,-31.7647605,2,Green Creek NSW
+Victoria Tavern,,,,150.520792,-23.3724442,2,Nankin QLD
+Civic Hotel,,,,153.2753452,-28.8099189,2,Wardell NSW
+Melbourne Hotel,,,,152.3531634,-24.8714814,2,George Street QLD
+The Brewhouse,,,,152.3535463,-24.8651203,2,George Street QLD
+The Rose Hotel,406,Napier Street,,144.9814035,-37.7955069,2,Collingwood North VIC
+The Pioneer,,,,175.3261963,-38.0100591,2,Lord Howe Island NSW
+Palace Hotel,,,,151.2055835,-33.8796489,2,Ultimo NSW
+The Farmers Arms,,,,141.6489624,-36.3336583,2,Miram VIC
+Civic Hotel,,,,151.2077158,-33.8778723,2,Ultimo NSW
+The Craic,,,,176.9981465,-37.9505471,2,Lord Howe Island NSW
+Uni Bar,,,,153.0526365,-27.5523124,2,Nathan QLD
+Cricketers Arms,,,,151.1821405,-33.8576224,2,Birchgrove NSW
+Royal Oak,,,,138.6269043,-35.1085409,2,Flagstaff Hill SA
+Cambridge Hotel,,,,148.1754479,-33.1388988,2,Tichborne NSW
+Pier Hotel,1751,Botany Road,,151.210549,-33.9596301,2,Banksmeadow NSW
+Pioneer Tavern,,,,175.6547436,-37.2918193,2,Lord Howe Island NSW
+Wallaroo Hotel,,,,150.7507145,-29.2521212,2,Twin Rivers NSW
+Pastoral Hotel,112,Talbragar Street,,148.6056645,-32.2451944,2,Boothenba NSW
