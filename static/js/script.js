@@ -79,8 +79,7 @@ d3.json("static/data/aust.json", function(json) {
         .append("path")
         .attr("d", path)
         .style("stroke", "black")
-        .style("opacity", 0.1);
-
+        .style("opacity", 0.15);
 
     d3.csv("static/data/data_filt2.csv", function(data) {
         map.selectAll("circle")
@@ -107,7 +106,7 @@ d3.json("static/data/aust.json", function(json) {
         var zoomIn = svg.append("g")
             .attr("class", "zoom")	//All share the 'zoom' class
             .attr("id", "in")		//The ID will tell us which direction to head
-            .attr("transform", "translate(" + (w - 110) + "," + (h - 70) + ")");
+            .attr("transform", "translate(" + (w - 110) + "," + (h -400) + ")");
 
         zoomIn.append("rect")
             .attr("x", 0)
@@ -123,7 +122,7 @@ d3.json("static/data/aust.json", function(json) {
         var zoomOut = svg.append("g")
             .attr("class", "zoom")
             .attr("id", "out")
-            .attr("transform", "translate(" + (w - 70) + "," + (h - 70) + ")");
+            .attr("transform", "translate(" + (w - 70) + "," + (h - 400) + ")");
 
         zoomOut.append("rect")
             .attr("x", 0)

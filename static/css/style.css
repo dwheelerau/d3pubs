@@ -3,7 +3,9 @@
     fill: black;
     opacity: 0.2;
 }
-
+#intro {
+    width: 900px;
+}
 .zoom rect {
     rx: 5;  /* Rounded corners */
     ry: 5;
@@ -28,4 +30,9 @@
     font-size: 11px;
     fill: black;
     text-anchor: middle;
+}
+*
+{
+    text-align: center !important;
+    margin: auto !important;
 }
