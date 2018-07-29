@@ -8,8 +8,28 @@
   <script type="text/javascript" src="static/lib/d3.js"></script>
 </head>
   <body>
+    <h2>Great Aussie pub challange!</h2>
+    <div id="map"></div>
+    <div id="table">
+      <table>
+        <tr>
+          <th>Firstname</th>
+          <th>Lastname</th> 
+          <th>Age</th>
+        </tr>
+        <tr>
+          <td>Jill</td>
+          <td>Smith</td> 
+          <td>50</td>
+        </tr>
+        <tr>
+          <td>Eve</td>
+          <td>Jackson</td> 
+          <td>94</td>
+        </tr>
+      </table>
+    </div>
     <div id="intro">
-      <h2>Introduction</h2>
       <p>The map below shows the 50 most common pub names in Australia.
       Use the radio button to filter pubs by name!<p>
       <h2>Take the pub challange</h2>
@@ -17,7 +37,7 @@
       cordinates and we will calculate the closest 10, 20, or 50 of these
       pubs so you can try and visit each one. Take a photo and paste share
       it on twitter with #AussiePubChallange!</p>
-    <div id="map"></div>
+    </div>
     <div id="tooltip" class="hidden">
       <p><strong></strong></p>
       <p><span id="value"></span></p>

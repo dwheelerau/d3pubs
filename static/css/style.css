@@ -1,35 +1,48 @@
+
 .pan rect,
 .zoom rect {
     fill: black;
     opacity: 0.2;
 }
-#intro {
-    width: 900px;
-}
 .zoom rect {
     rx: 5;  /* Rounded corners */
     ry: 5;
 }
-
 .pan text,
 .zoom text {
     fill: black;
     font-size: 18px;
     text-anchor: middle;
 }
-
 .pan:hover rect,
 .pan:hover text,
 .zoom:hover rect,
 .zoom:hover text {
     fill: blue;
 }
-			
 .label {
     font-family: Helvetica, sans-serif;
     font-size: 11px;
     fill: black;
     text-anchor: middle;
+}
+#map {
+    position: relative;
+    float: left;
+    left: 300px;
+    margin: 0 auto;
+}
+#table {
+    position:relative;
+    top: 100px;
+    left: 0px;
+    width: auto;
+    margin: 0 auto;
+}
+#intro {
+    clear: both;
+    position: relative;
+    width: 900px;
 }
 *
 {

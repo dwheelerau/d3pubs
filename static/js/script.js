@@ -56,7 +56,7 @@ var center = projection([130, -30]);
 
 //Create a container in which all zoom-able elements will live
 var map = svg.append("g")
-    .attr("id", "map")
+    .attr("id", "mapg")
     .call(zoom)  //Bind the zoom behavior
     .call(zoom.transform, d3.zoomIdentity  //Then apply the initial transform
     .translate(w/2, h/2)
@@ -106,7 +106,7 @@ d3.json("static/data/aust.json", function(json) {
         var zoomIn = svg.append("g")
             .attr("class", "zoom")	//All share the 'zoom' class
             .attr("id", "in")		//The ID will tell us which direction to head
-            .attr("transform", "translate(" + (w - 110) + "," + (h -400) + ")");
+            .attr("transform", "translate(" + (w - 390) + "," + (h -70) + ")");
 
         zoomIn.append("rect")
             .attr("x", 0)
@@ -122,7 +122,7 @@ d3.json("static/data/aust.json", function(json) {
         var zoomOut = svg.append("g")
             .attr("class", "zoom")
             .attr("id", "out")
-            .attr("transform", "translate(" + (w - 70) + "," + (h - 400) + ")");
+            .attr("transform", "translate(" + (w - 430) + "," + (h - 70) + ")");
 
         zoomOut.append("rect")
             .attr("x", 0)
