@@ -26,16 +26,15 @@
     fill: black;
     text-anchor: middle;
 }
+
 #map {
     position: relative;
-    float: left;
-    left: 300px;
-    margin: 0 auto;
 }
 #table {
-    position:relative;
-    top: 100px;
-    left: 0px;
+    font-size: 10pt;
+    position: absolute;
+    top: 50px;
+    left: 930px;
     width: auto;
     margin: 0 auto;
 }

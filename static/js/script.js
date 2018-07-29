@@ -18,8 +18,6 @@ var svg = d3.select("#map")
 
 //Define what to do when panning or zooming
 var zooming = function(d) {
-    //console.log(d3.event.transform);
-
     //New offset array
     var offset = [d3.event.transform.x, d3.event.transform.y];
     console.log(offset);
@@ -51,7 +49,6 @@ var zoom = d3.zoom()
     .on("zoom", zooming);
 
 //The center of the country, roughly
-//var center = projection([130, -30]);
 var center = projection([130, -30]);
 
 //Create a container in which all zoom-able elements will live
@@ -98,7 +95,22 @@ d3.json("static/data/aust.json", function(json) {
             .text(function(d) {
                 return d.name + " " + d.sub_info;
             });
-    createZoomButtons();
+        createZoomButtons();
+        // get the top 20 for table
+        var names = [];
+        var table = document.getElementById('hotelTable');
+        for (var i=0; names.length < 20; i++) {
+            var name = data[i]['name'];
+            var freq = data[i]['freq'];
+            if (names.includes(name) == false) {
+                names.push(name);
+                var row = table.insertRow(-1);
+                var cell1 = row.insertCell(0);
+                var cell2 = row.insertCell(1);
+                cell1.innerHTML = name;
+                cell2.innerHTML = freq;
+            }
+        }
     });
 
     var createZoomButtons = function() {
@@ -163,7 +175,6 @@ d3.json("static/data/aust.json", function(json) {
     };
 });
 
-
 //Bind 'Reset' button behavior
 d3.select("#reset")
     .on("click", function() {
@@ -176,3 +187,35 @@ d3.select("#reset")
             .translate(-center[0], -center[1])
             );
 });
+
+function tabulate(data, columns) {
+    var table = d3.select('#table').append('table')
+    var thead = table.append('thead')
+    var	tbody = table.append('tbody');
+
+    // append the header row
+    thead.append('tr')
+        .selectAll('th')
+        .data(columns).enter()
+        .append('th')
+        .text(function (column) { return column; });
+
+    // create a row for each object in the data
+    var rows = tbody.selectAll('tr')
+        .data(data)
+        .enter()
+        .append('tr');
+
+    // create a cell in each row for each column
+    var cells = rows.selectAll('td')
+        .data(function (row) {
+        return columns.map(function (column) {
+            return {column: column, value: row[column]};
+        });
+        })
+        .enter()
+        .append('td')
+        .text(function (d) { return d.value; });
+
+    return table;
+	}
