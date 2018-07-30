@@ -95,6 +95,8 @@ d3.json("static/data/aust.json", function(json) {
             .text(function(d) {
                 return d.name + " " + d.sub_info;
             });
+
+        
         createZoomButtons();
         // get the top 20 for table
         var names = [];
@@ -111,6 +113,11 @@ d3.json("static/data/aust.json", function(json) {
                 cell2.innerHTML = freq;
             }
         }
+        d3.selectAll('td')
+            .data(data)
+            .on('mouseover', mouseover)
+            .on('mouseout', mouseout);
+
     });
 
     var createZoomButtons = function() {
@@ -219,3 +226,39 @@ function tabulate(data, columns) {
 
     return table;
 	}
+function mouseover(d) {
+    var target = this.innerHTML;
+    map.selectAll("circle")
+        .attr("cx", function(d) {
+            return projection([d.lon, d.lat])[0];
+        })
+        .attr("cy", function(d) {
+            return projection([d.lon, d.lat])[1];
+        })
+        .attr("r", function(d) {
+            if (d.name == target) {
+                return 3;
+            } else {
+                return 2;
+            }
+        })
+        .style("fill", function(d) {
+            if (d.name == target) {
+                return "red";
+            } else {
+                return "orange";
+            }
+        });
+
+}
+function mouseout(d) {
+    map.selectAll("circle")
+        .attr("cx", function(d) {
+            return projection([d.lon, d.lat])[0];
+        })
+        .attr("cy", function(d) {
+            return projection([d.lon, d.lat])[1];
+        })
+        .attr("r", 2)
+        .style("fill", "orange");
+}
