@@ -1,4 +1,4 @@
-# Pubs in Australia, also includes NZ but not in this map
+# Pubs in Australia, also includes NZ but not in this map (-;
 Inspired by   
 1.  Download the oceana region data from open street map <a
     href-"http://download.geofabrik.de/australia-oceania.html">here.</a>  
