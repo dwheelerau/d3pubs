@@ -96,7 +96,6 @@ d3.json("static/data/aust.json", function(json) {
                 return d.name + " " + d.sub_info;
             });
 
-        
         createZoomButtons();
         // get the top 20 for table
         // MOVE THIS LOGIC TO A FUNCTION
@@ -273,14 +272,14 @@ d3.csv("static/data/postcode_pubs.csv", function(pcData) {
         // to the function
         d3.select("#nValue").on("input", function() {
             update(+this.value);
-        });    
+        });
         // make a data object that can be used by the table
         // and pass this to the update table function
-}
+});
 
 // adjust the table this is dummy code for now, move the logic from the current
 // place where the table is made to this.
-function updateTable(nValue) {
+// function updateTable(nValue) {
 //
         //var table = document.getElementById('hotelTable');
 //   // adjust the value
@@ -289,4 +288,4 @@ function updateTable(nValue) {
      //       .data(pcData)
      //       .enter()
      //       .append("ttttt"); // is the the right order
-}
+//}
