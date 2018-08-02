@@ -99,6 +99,7 @@ d3.json("static/data/aust.json", function(json) {
         
         createZoomButtons();
         // get the top 20 for table
+        // MOVE THIS LOGIC TO A FUNCTION
         var names = [];
         var table = document.getElementById('hotelTable');
         for (var i=0; names.length < 20; i++) {
@@ -261,4 +262,31 @@ function mouseout(d) {
         })
         .attr("r", 2)
         .style("fill", "orange");
+}
+// not sure if this is the correct place, it might take some time to load, so I
+// could put it within the call back to delay the user, or perhaps by the time
+// they read hte part and enter the postcode this would have loaded by now? For
+// now I will put the logic for the postcode here so that the button will only
+// work once the file is loaded.
+d3.csv("static/data/postcode_pubs.csv", function(pcData) {
+        // collect the postcode to parse out the data from pcData and pass that
+        // to the function
+        d3.select("#nValue").on("input", function() {
+            update(+this.value);
+        });    
+        // make a data object that can be used by the table
+        // and pass this to the update table function
+}
+
+// adjust the table this is dummy code for now, move the logic from the current
+// place where the table is made to this.
+function updateTable(nValue) {
+//
+        //var table = document.getElementById('hotelTable');
+//   // adjust the value
+    //table.selectAll("td").remove();
+     //   table.selectAll("ttttt")
+     //       .data(pcData)
+     //       .enter()
+     //       .append("ttttt"); // is the the right order
 }
