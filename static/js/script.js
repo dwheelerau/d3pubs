@@ -1,6 +1,7 @@
-// HEAVILY inspired (AKA copied from
+// some code HEAVILY inspired AKA copied from
 // https://raw.githubusercontent.com/alignedleft/d3-book/master/chapter_14/17_labels.html
-// From the great book: Interactive Data Visualization for the web. 
+// From the great book: Interactive Data Visualization for the web!  
+
 var h = 500;
 var w = 500;
 
@@ -48,7 +49,7 @@ var zoom = d3.zoom()
     .translateExtent([[ -900, -1000 ], [ 900, 1000 ]])
     .on("zoom", zooming);
 
-//The center of the country, roughly
+//The center of our great country, roughly
 var center = projection([130, -30]);
 
 //Create a container in which all zoom-able elements will live
@@ -182,7 +183,7 @@ d3.json("static/data/aust.json", function(json) {
     };
 });
 
-//Bind 'Reset' button behavior
+//Bind 'Reset' button behavior, not used
 d3.select("#reset")
     .on("click", function() {
         map.transition()
@@ -267,25 +268,34 @@ function mouseout(d) {
 // they read hte part and enter the postcode this would have loaded by now? For
 // now I will put the logic for the postcode here so that the button will only
 // work once the file is loaded.
-d3.csv("static/data/postcode_pubs.csv", function(pcData) {
-        // collect the postcode to parse out the data from pcData and pass that
-        // to the function
-        d3.select("#nValue").on("input", function() {
-            update(+this.value);
-        });
-        // make a data object that can be used by the table
-        // and pass this to the update table function
+d3.csv("static/data/postcode_pubs2.csv", function(pcData) {
+    // collect the postcode to parse out the data from pcData and pass that
+    // to the function
+    d3.select("#button")
+        .on("click", function() {
+
+       var t = document.getElementById("nValue").value
+        console.log(t);
+       // would be good to just send a obj of 20 values for table
+        updateTable(pcData);
+    });
 });
 
-// adjust the table this is dummy code for now, move the logic from the current
-// place where the table is made to this.
-// function updateTable(nValue) {
-//
-        //var table = document.getElementById('hotelTable');
-//   // adjust the value
-    //table.selectAll("td").remove();
-     //   table.selectAll("ttttt")
-     //       .data(pcData)
-     //       .enter()
-     //       .append("ttttt"); // is the the right order
-//}
+function updateTable(pcData) {
+    // this is a dictionary of all data, really want a object with just the
+    console.log(pcData);
+    var table = document.getElementById('hotelTable');
+    // this is code for making the table from above
+    //for (var i=0; names.length < 20; i++) {
+    //    var name = data[i]['name'];
+    //    var freq = data[i]['freq'];
+    //    if (names.includes(name) == false) {
+    //        names.push(name);
+    //        var row = table.insertRow(-1);
+    //        var cell1 = row.insertCell(0);
+    //        var cell2 = row.insertCell(1);
+    //        cell1.innerHTML = name;
+    //        cell2.innerHTML = freq;
+    //    }
+       //}
+}
