@@ -283,17 +283,19 @@ d3.csv("static/data/postcode_pubs2.csv", function(pcData) {
 
 function updateTable(pcData, pc) { // this is a dictionary of all data, really want a object with just the
     console.log(pc);
-    var pcResult;
+    // obj to store result with hotels as keys
+    var pcResult = {};
+    // collect the 20 pub data for this postcode
     for (var i=0; i < pcData.length; i++) {
         if (pcData[i]['postcode'] == pc) {
-            pcResult = pcData[i];
+            //pcResult = pcData[i];
+           for (var n=0; n < names.length; n++) {
+             pcResult[names[n]] = pcData[i][names[n]];
+           }
         }
     }
-    pcInfo = {};
-    for (var i=0; i < names.length; i++) {
-        pcInfo[names[i]] = pcResult[names[i]];
-    }
-    console.log(pcInfo);
+    console.log(pcResult);
+    // HERE: make table again.
     // var table = document.getElementById('hotelTable');
 }
     // this is code for making the table from above
