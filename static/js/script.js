@@ -1,9 +1,11 @@
 // some code HEAVILY inspired AKA copied from
 // https://raw.githubusercontent.com/alignedleft/d3-book/master/chapter_14/17_labels.html
 // From the great book: Interactive Data Visualization for the web!  
-
 var h = 500;
 var w = 500;
+
+// place to store 20 names for table
+var names = [];
 
 var projection = d3.geoMercator()
     .center([130, -20])
@@ -100,7 +102,6 @@ d3.json("static/data/aust.json", function(json) {
         createZoomButtons();
         // get the top 20 for table
         // MOVE THIS LOGIC TO A FUNCTION
-        var names = [];
         var table = document.getElementById('hotelTable');
         for (var i=0; names.length < 20; i++) {
             var name = data[i]['name'];
@@ -274,17 +275,27 @@ d3.csv("static/data/postcode_pubs2.csv", function(pcData) {
     d3.select("#button")
         .on("click", function() {
 
-       var t = document.getElementById("nValue").value
-        console.log(t);
+       var pc = document.getElementById("nValue").value
        // would be good to just send a obj of 20 values for table
-        updateTable(pcData);
+        updateTable(pcData, pc);
     });
 });
 
-function updateTable(pcData) {
-    // this is a dictionary of all data, really want a object with just the
-    console.log(pcData);
-    var table = document.getElementById('hotelTable');
+function updateTable(pcData, pc) { // this is a dictionary of all data, really want a object with just the
+    console.log(pc);
+    var pcResult;
+    for (var i=0; i < pcData.length; i++) {
+        if (pcData[i]['postcode'] == pc) {
+            pcResult = pcData[i];
+        }
+    }
+    pcInfo = {};
+    for (var i=0; i < names.length; i++) {
+        pcInfo[names[i]] = pcResult[names[i]];
+    }
+    console.log(pcInfo);
+    // var table = document.getElementById('hotelTable');
+}
     // this is code for making the table from above
     //for (var i=0; names.length < 20; i++) {
     //    var name = data[i]['name'];
@@ -298,4 +309,3 @@ function updateTable(pcData) {
     //        cell2.innerHTML = freq;
     //    }
        //}
-}
