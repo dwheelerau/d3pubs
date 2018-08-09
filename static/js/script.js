@@ -4,6 +4,8 @@
 var h = 530;
 var w = 500;
 
+// global data 
+var globData;
 // place to store 20 names for table
 var names = [];
 
@@ -82,6 +84,7 @@ d3.json("static/data/aust.json", function(json) {
         .style("opacity", 0.15);
 
     d3.csv("static/data/data_filt2.csv", function(data) {
+        globData = data;
         map.selectAll("circle")
             .data(data)
             .enter()
@@ -201,33 +204,29 @@ function tabulate(data, columns) {
     var table = d3.select('#table').append('table')
     var thead = table.append('thead')
     var	tbody = table.append('tbody');
-
     // append the header row
     thead.append('tr')
         .selectAll('th')
         .data(columns).enter()
         .append('th')
         .text(function (column) { return column; });
-
     // create a row for each object in the data
     var rows = tbody.selectAll('tr')
         .data(data)
         .enter()
         .append('tr');
-
     // create a cell in each row for each column
     var cells = rows.selectAll('td')
         .data(function (row) {
         return columns.map(function (column) {
             return {column: column, value: row[column]};
-        });
+            });
         })
         .enter()
         .append('td')
         .text(function (d) { return d.value; });
-
     return table;
-	}
+}
 function mouseover(d) {
     var target = this.innerHTML;
     map.selectAll("circle")
@@ -251,8 +250,8 @@ function mouseover(d) {
                 return "orange";
             }
         });
-
 }
+
 function mouseout(d) {
     map.selectAll("circle")
         .attr("cx", function(d) {
@@ -302,7 +301,7 @@ function updateTable(pcResult) { // this is a dictionary of all data, really wan
     var cell2 = row.insertCell(1);
     cell1.innerHTML = "<strong>Pub</strong>";
     cell2.innerHTML = "<strong>Location (distance)</strong>";
-
+    // insert each row
     for (var i=0; i < names.length; i++) {
         var name = names[i];
         var info = pcResult[name];
@@ -313,6 +312,8 @@ function updateTable(pcResult) { // this is a dictionary of all data, really wan
         cell1.innerHTML = name;
         cell2.innerHTML = keyInfo;
     }
+    d3.selectAll('td')
+        .data(globData) // this is wrong need only the sub set for this list only
+        .on('mouseover', mouseover)
+        .on('mouseout', mouseout);
 }
-        //    }
-       //}
