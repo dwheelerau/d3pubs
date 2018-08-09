@@ -264,10 +264,7 @@ function mouseout(d) {
         .attr("r", 2)
         .style("fill", "orange");
 }
-// not sure if this is the correct place, it might take some time to load, so I
-// could put it within the call back to delay the user, or perhaps by the time
-// they read hte part and enter the postcode this would have loaded by now? For
-// now I will put the logic for the postcode here so that the button will only
+
 // work once the file is loaded.
 d3.csv("static/data/postcode_pubs2.csv", function(pcData) {
     // collect the postcode to parse out the data from pcData and pass that
@@ -277,13 +274,7 @@ d3.csv("static/data/postcode_pubs2.csv", function(pcData) {
 
        var pc = document.getElementById("nValue").value
        // would be good to just send a obj of 20 values for table
-        updateTable(pcData, pc);
-    });
-});
-
-function updateTable(pcData, pc) { // this is a dictionary of all data, really want a object with just the
-    console.log(pc);
-    // obj to store result with hotels as keys
+       // updateTable(pcData, pc);
     var pcResult = {};
     // collect the 20 pub data for this postcode
     for (var i=0; i < pcData.length; i++) {
@@ -294,20 +285,34 @@ function updateTable(pcData, pc) { // this is a dictionary of all data, really w
            }
         }
     }
-    console.log(pcResult);
-    // HERE: make table again.
-    // var table = document.getElementById('hotelTable');
+    updateTable(pcResult);
+
+    });
+});
+
+function updateTable(pcResult) { // this is a dictionary of all data, really want a object with just the
+    // obj to store result with hotels as keys
+    var table = document.getElementById('hotelTable');
+    var rowsToDelete = table.rows.length;
+    for (var i=0; i < rowsToDelete ; i++) {
+        table.deleteRow(-1);
+    }
+    var row = table.insertRow(-1);
+    var cell1 = row.insertCell(0);
+    var cell2 = row.insertCell(1);
+    cell1.innerHTML = "<strong>Pub</strong>";
+    cell2.innerHTML = "<strong>Location (distance)</strong>";
+
+    for (var i=0; i < names.length; i++) {
+        var name = names[i];
+        var info = pcResult[name];
+        var keyInfo = info.split(")")[0] + ")";
+        var row = table.insertRow(-1);
+        var cell1 = row.insertCell(0);
+        var cell2 = row.insertCell(1);
+        cell1.innerHTML = name;
+        cell2.innerHTML = keyInfo;
+    }
 }
-    // this is code for making the table from above
-    //for (var i=0; names.length < 20; i++) {
-    //    var name = data[i]['name'];
-    //    var freq = data[i]['freq'];
-    //    if (names.includes(name) == false) {
-    //        names.push(name);
-    //        var row = table.insertRow(-1);
-    //        var cell1 = row.insertCell(0);
-    //        var cell2 = row.insertCell(1);
-    //        cell1.innerHTML = name;
-    //        cell2.innerHTML = freq;
-    //    }
+        //    }
        //}
