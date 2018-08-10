@@ -1,8 +1,8 @@
 // some code HEAVILY inspired AKA copied from
 // https://raw.githubusercontent.com/alignedleft/d3-book/master/chapter_14/17_labels.html
 // From the great book: Interactive Data Visualization for the web!  
-var h = 530;
-var w = 500;
+var h = 500;
+var w = 450;
 
 // global data 
 var globData;

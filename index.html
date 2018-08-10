@@ -3,23 +3,25 @@
 <head>
   <meta charset="UTF-8">
   <title>Australian Pub challange!</title>
+  <link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow" rel="stylesheet">
   <link rel="stylesheet" href="static/css/style.css" type=""
                                                      media="screen" />
   <script type="text/javascript" src="static/lib/d3.js"></script>
 </head>
   <body>
     <h2>Great Aussie pub challange!</h2>
-    <div id="map"></div>
-    <div id="table">
+    <div id="pcBox">
       <p>
-        <label for="nValue"
-          style="display: inline-block; width: 240px; text-align: right">
+        <label for="nValue">
           Your postcode: 
         </label>
         <input type="number" min="0" max="10000" 
           step="1" value="0" id="nValue"><input type="submit" id="button">
       </p>
-      <table id="hotelTable">
+    </div>
+    <div id="map"></div>
+    <div id="table">
+        <table id="hotelTable">
         <tr>
           <th>Pub</th>
           <th>Number</th>
@@ -28,18 +30,17 @@
     </div>
     <div id="intro">
       <p>
-      The map shows the location of 100 most common pub names in Australia.
+      The map shows the location of pubs that share the 100 most common
+      names in Australia. The top 20 most popular pub names are shown in the table to the right.
       <p>
-      <h3>Take the pub challange</h2>
-      <p>To take the pub challange, enter your postcode
-      and we will calculate the closest 10, 20, or 50 of the
-      pubs with the most common names. The goal of the challange is to 
-      visit each pub in your list. Use the longitide and latitude numbers
-      in google maps to get directions! 
+      <p>
+      So do you need an excuse to get out and see this great big country of ours? If so enter 
+      your postcode in the box and we will find your nearest pubs from the top 20 most
+      popular name list. The goal is to visit all of the pubs on your list and enjoy a middy, pot, 
+      schooner, half pint, or ten. Enjoy (but please don't drink and drive)!
       </p>
       <p>
-      Take a photo and share
-      it on twitter with #AussiePubChallange!
+      Why not take a photo in front of your pub and share it on twitter with the hashtag #aussiepubchallange.
       </p>
     </div>
     <div id="tooltip" class="hidden">
@@ -47,7 +48,9 @@
       <p><span id="value"></span></p>
     </div>
     <div id="data">
-      Data taken from XXX Get the code and data
+      Data taken from <a href="https://www.openstreetmap.org/#map=4/-26.55/131.13">open street maps</a> 
+      which certainly does not include an exchaustive list Australian pubs. The pub location is 
+      fuzzy as it was obtained by cross-referencing the pubs long/lat with postcode data.
     </div>
   <script type="text/javascript" src="static/js/script.js"></script>
   </body>
