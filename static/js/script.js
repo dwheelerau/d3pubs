@@ -299,6 +299,9 @@ function updateTable(pcResult) { // this is a dictionary of all data, really wan
     var row = table.insertRow(-1);
     var cell1 = row.insertCell(0);
     var cell2 = row.insertCell(1);
+    // obj to make red dots for these 20
+    // var locs = [{"name":[], "lon":[], "lat":[]}];
+    var locs = [];
     cell1.innerHTML = "<strong>Pub</strong>";
     cell2.innerHTML = "<strong>Location (distance)</strong>";
     // insert each row
@@ -306,14 +309,40 @@ function updateTable(pcResult) { // this is a dictionary of all data, really wan
         var name = names[i];
         var info = pcResult[name];
         var keyInfo = info.split(")")[0] + ")";
+        // extract long and lat info and add to obj
+        //locs[0]["name"].push(name);
+        //locs[0]["lat"].push(info.split(")")[1].split(" ")[1]);
+        //locs[0]["lon"].push(info.split(")")[1].split(" ")[2]);
+        var lat = info.split(")")[1].split(" ")[1];
+        var lon = info.split(")")[1].split(" ")[2];
+        locs.push({"lat":lat, "lon":lon, "name":name});
         var row = table.insertRow(-1);
         var cell1 = row.insertCell(0);
         var cell2 = row.insertCell(1);
         cell1.innerHTML = name;
         cell2.innerHTML = keyInfo;
     }
+    // add dots to maps for this table only
+    map.selectAll("circle").remove();
+    map.selectAll("circle")
+        .data(locs)
+        .enter()
+        .append("circle")
+        .attr("cx", function(d) {
+            return projection([d.lon, d.lat])[0];
+        })
+        .attr("cy", function(d) {
+            return projection([d.lon, d.lat])[1];
+        })
+        .attr("r", 3)
+        .style("fill", "green")
+        .style("opacity", 1)
+        .append("title")
+        .text(function(d) {
+            return d.name;
+        });
     d3.selectAll('td')
-        .data(globData) // this is wrong need only the sub set for this list only
+        .data(locs) // this is wrong need only the sub set for this list only
         .on('mouseover', mouseover)
         .on('mouseout', mouseout);
 }
