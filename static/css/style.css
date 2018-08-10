@@ -19,14 +19,18 @@
 .zoom:hover text {
     fill: blue;
 }
+h2 {
+    margin: 50px;
+}
 #pcBox {
     position: relative;
-    margin-top: 50px;
+    margin-top: 30px;
 }
 
 #map {
     position: relative;
     display: inline-block;
+    margin: auto;
 }
 #table {
     font-size: 11pt;
