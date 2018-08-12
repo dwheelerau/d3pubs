@@ -12,7 +12,7 @@ var numNames = 10;
 var names = [];
 
 var projection = d3.geoMercator()
-    .center([130, -20])
+    .center([130, -25])
     .translate([w/2, h/2]);
 
 var path = d3.geoPath()
@@ -30,7 +30,7 @@ var zooming = function(d) {
     console.log(offset);
 
     //Calculate new scale was 2000
-    var newScale = d3.event.transform.k * 2000;
+    var newScale = d3.event.transform.k * 2100;
 
     //Update projection with new offset and scale
     projection.translate(offset)
@@ -51,7 +51,7 @@ var zooming = function(d) {
 
 //Then define the zoom behavior, translateExtent controls limits
 var zoom = d3.zoom()
-    .scaleExtent([ 0.2, 2.0 ])
+    .scaleExtent([ 0.2, 10.0 ]) //act sets how much zoom
     .translateExtent([[ -900, -1000 ], [ 900, 1000 ]])
     .on("zoom", zooming);
 
@@ -189,17 +189,19 @@ d3.json("static/data/aust.json", function(json) {
     };
 });
 
-//Bind 'Reset' button behavior, not used
+//Bind 'Reset' button behavior, reloads screen....
 d3.select("#reset")
     .on("click", function() {
-        map.transition()
-            .call(zoom.transform,
-        d3.zoomIdentity
+        //map.transition()
+        //    .call(zoom.transform,
+        //d3.zoomIdentity
         //Same
-            .translate(w/2, h/2)
-            .scale(0.25)
-            .translate(-center[0], -center[1])
-            );
+        //    .translate(w/2, h/2)
+        //    .scale(0.25)
+        //    .translate(-center[0], -center[1])
+        //    );
+        //var table = document.getElementById('hotelTable');
+        location.reload(true);
 });
 
 function tabulate(data, columns) {
