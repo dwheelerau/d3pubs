@@ -6,6 +6,8 @@ var w = 450;
 
 // global data 
 var globData;
+// number of names to display
+var numNames = 10;
 // place to store 20 names for table
 var names = [];
 
@@ -103,10 +105,10 @@ d3.json("static/data/aust.json", function(json) {
             });
 
         createZoomButtons();
-        // get the top 20 for table
+        // get the top x number for table
         // MOVE THIS LOGIC TO A FUNCTION
         var table = document.getElementById('hotelTable');
-        for (var i=0; names.length < 20; i++) {
+        for (var i=0; names.length < numNames; i++) {
             var name = data[i]['name'];
             var freq = data[i]['freq'];
             if (names.includes(name) == false) {
