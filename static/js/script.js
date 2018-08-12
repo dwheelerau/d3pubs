@@ -124,7 +124,6 @@ d3.json("static/data/aust.json", function(json) {
             .data(data)
             .on('mouseover', mouseover)
             .on('mouseout', mouseout);
-
     });
 
     var createZoomButtons = function() {
@@ -203,34 +202,6 @@ d3.select("#reset")
         //var table = document.getElementById('hotelTable');
         location.reload(true);
 });
-
-function tabulate(data, columns) {
-    var table = d3.select('#table').append('table')
-    var thead = table.append('thead')
-    var	tbody = table.append('tbody');
-    // append the header row
-    thead.append('tr')
-        .selectAll('th')
-        .data(columns).enter()
-        .append('th')
-        .text(function (column) { return column; });
-    // create a row for each object in the data
-    var rows = tbody.selectAll('tr')
-        .data(data)
-        .enter()
-        .append('tr');
-    // create a cell in each row for each column
-    var cells = rows.selectAll('td')
-        .data(function (row) {
-        return columns.map(function (column) {
-            return {column: column, value: row[column]};
-            });
-        })
-        .enter()
-        .append('td')
-        .text(function (d) { return d.value; });
-    return table;
-}
 function mouseover(d) {
     var target = this.innerHTML;
     map.selectAll("circle")
@@ -257,6 +228,7 @@ function mouseover(d) {
 }
 
 function mouseout(d) {
+    console.log('out');
     map.selectAll("circle")
         .attr("cx", function(d) {
             return projection([d.lon, d.lat])[0];
@@ -271,13 +243,12 @@ function mouseout(d) {
 // work once the file is loaded.
 d3.csv("static/data/postcode_pubs2.csv", function(pcData) {
     // collect the postcode to parse out the data from pcData and pass that
-    // to the function
     d3.select("#button")
         .on("click", function() {
 
-       var pc = document.getElementById("nValue").value
-       // would be good to just send a obj of 20 values for table
-       // updateTable(pcData, pc);
+    var pc = document.getElementById("nValue").value
+    // would be good to just send a obj of 20 values for table
+    // updateTable(pcData, pc);
     var pcResult = {};
     // collect the 20 pub data for this postcode
     for (var i=0; i < pcData.length; i++) {
@@ -342,9 +313,8 @@ function updateTable(pcResult) { // this is a dictionary of all data, really wan
             return d.name;
         });
     console.log(locs);
-    // this is only working for some of them??
-    // d3.selectAll('td')
-    //    .data(locs) // this is wrong need only the sub set for this list only
-    //    .on('mouseover', mouseover)
-    //    .on('mouseout', mouseout);
+    d3.selectAll('td')
+       .data(globData)
+       .on('mouseover', mouseover)
+       .on('mouseout', mouseout);
 }
