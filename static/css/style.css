@@ -34,11 +34,8 @@ h2 {
 }
 #table {
     font-size: 11pt;
-    text-align: left;
-    position: absolute;
     display: inline-block;
     top: 50px;
-    left: 900px;
     width: auto;
     margin: 100px;
 }
