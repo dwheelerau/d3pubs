@@ -20,11 +20,11 @@
     fill: blue;
 }
 h2 {
-    margin: 50px;
+    padding: 3px;
 }
 #pcBox {
     position: relative;
-    margin-top: 30px;
+    padding: 10px;
 }
 
 #map {
